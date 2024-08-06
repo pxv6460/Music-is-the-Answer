@@ -5,4 +5,4 @@ Step 2: Write a function to pull in the top 100 weekly billboard titles for the 
 
 Step 3: Access the spotify API to get the Spotify classificaitons for the above list of Billboard songs
 
-Step 4: Use existing Spotify variables to plot the sentiment
+Step 4: Use existing Spotify variables to plot the sentiment 	&#9785;
