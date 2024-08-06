@@ -6,4 +6,4 @@ Step 2: Write a function to pull in the top 100 weekly billboard titles for the 
 Step 3: Access the spotify API to get the Spotify classificaitons for the above list of Billboard songs
 
 Step 4: Run the 'Moodify' code to add additional classifications ( what is the modd of the song)
-Combine the Data (maybe next time u+0x2639 )
+Combine the Data (maybe next time U+1F61E )
