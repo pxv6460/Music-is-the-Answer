@@ -22,7 +22,18 @@ audio_features
 * speechiness number [float]  Speechiness detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Values above 0.66 describe tracks that are probably made entirely of spoken words. Values between 0.33 and 0.66 describe tracks that may contain both music and speech, either in sections or layered, including such cases as rap music. Values below 0.33 most likely represent music and other non-speech-like tracks.  
 * tempo number [float]  The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.  
 * time_signature integer  An estimated time signature. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of "3/4", to "7/4" Range: 3 - 7  
-* valence number [float]  A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry). Range: 0 - 1 
+* valence number [float]  A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry). Range: 0 - 1
+
+* Correlations between the features
+* Positive Correlation:
+	•	Energy and Loudness: The correlation is 0.632, indicating a strong positive correlation. As energy increases, loudness tends to increase as well.
+	•	Valence and Energy: The correlation is 0.390, indicating a moderate positive correlation. As valence (positivity) increases, energy tends to increase.
+	•	Negative Correlation:
+	•	Danceability and Acousticness: The correlation is -0.352, indicating a moderate negative correlation. As danceability increases, acousticness tends to decrease.
+	•	Tempo and Danceability: The correlation is -0.398, indicating a moderate negative correlation. As tempo increases, danceability tends to decrease.
+	•	Weak or No Correlation:
+	•	Loudness and Liveness: The correlation is approximately 0, indicating no linear relationship between these variables.
+	•	Speechiness and Energy: The correlation is -0.005, indicating almost no linear relationship.
 
 
 import requests
