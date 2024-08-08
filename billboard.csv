@@ -1,0 +1,1361 @@
+chart_week,current_week,title,performer,danceability,energy,loudness,speechiness,acousticness,liveness,tempo,valence,time_signature,duration_ms,genres
+2022-01-01,1,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2022-01-01,2,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2022-01-01,3,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2022-01-01,4,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2022-01-01,5,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-01-01,6,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2022-01-01,7,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2022-01-01,8,Feliz Navidad,Jose Feliciano,0.513,0.831,-9.004,0.0383,0.55,0.336,148.837,0.963,4,182067,"['latin pop', 'puerto rican pop']"
+2022-01-01,9,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-01-01,10,Sleigh Ride,The Ronettes,0.529,0.772,-7.013,0.0287,0.403,0.316,91.751,0.853,4,181267,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']"
+2022-01-08,1,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2022-01-08,2,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-01-08,3,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2022-01-08,4,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2022-01-08,5,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2022-01-08,6,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-01-08,7,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-01-08,8,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2022-01-08,9,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-01-08,10,Feliz Navidad,Jose Feliciano,0.513,0.831,-9.004,0.0383,0.55,0.336,148.837,0.963,4,182067,"['latin pop', 'puerto rican pop']"
+2022-01-15,1,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-01-15,2,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-01-15,3,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-01-15,4,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-01-15,5,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-01-15,6,Industry Baby,Lil Nas X & Jack Harlow,0.736,0.704,-7.409,0.0615,0.0203,0.0501,149.995,0.894,4,212000,['lgbtq+ hip hop']
+2022-01-15,7,Cold Heart (PNAU Remix),Elton John & Dua Lipa,0.796,0.798,-6.312,0.0317,0.034,0.0952,116.032,0.942,4,202735,"['glam rock', 'mellow gold', 'piano rock', 'rock']"
+2022-01-15,8,Bad Habits,Ed Sheeran,0.807,0.893,-3.745,0.0347,0.0451,0.366,126.011,0.537,4,230747,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-01-15,9,Need To Know,Doja Cat,0.664,0.609,-6.509,0.0707,0.304,0.0926,130.041,0.194,4,210560,"['dance pop', 'pop']"
+2022-01-15,10,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-01-22,1,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-01-22,2,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-01-22,3,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-01-22,4,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-01-22,5,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-01-22,6,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-01-22,7,Pushin P,Gunna & Future Featuring Young Thug,0.773,0.422,-4.572,0.187,0.00783,0.129,77.502,0.488,1,136267,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2022-01-22,8,Need To Know,Doja Cat,0.664,0.609,-6.509,0.0707,0.304,0.0926,130.041,0.194,4,210560,"['dance pop', 'pop']"
+2022-01-22,9,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-01-22,10,Cold Heart (PNAU Remix),Elton John & Dua Lipa,0.796,0.798,-6.312,0.0317,0.034,0.0952,116.032,0.942,4,202735,"['glam rock', 'mellow gold', 'piano rock', 'rock']"
+2022-01-29,1,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-01-29,2,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-01-29,3,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-01-29,4,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-01-29,5,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-01-29,6,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-01-29,7,Pushin P,Gunna & Future Featuring Young Thug,0.773,0.422,-4.572,0.187,0.00783,0.129,77.502,0.488,1,136267,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2022-01-29,8,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-01-29,9,Cold Heart (PNAU Remix),Elton John & Dua Lipa,0.796,0.798,-6.312,0.0317,0.034,0.0952,116.032,0.942,4,202735,"['glam rock', 'mellow gold', 'piano rock', 'rock']"
+2022-01-29,10,Surface Pressure,Jessica Darrow,0.65,0.584,-8.286,0.307,0.0174,0.042,180.088,0.37,4,202227,['movie tunes']
+2022-02-05,1,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-02-05,2,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-02-05,3,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-02-05,4,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-02-05,5,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-02-05,6,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-02-05,7,Pushin P,Gunna & Future Featuring Young Thug,0.773,0.422,-4.572,0.187,0.00783,0.129,77.502,0.488,1,136267,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2022-02-05,8,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-02-05,9,Surface Pressure,Jessica Darrow,0.65,0.584,-8.286,0.307,0.0174,0.042,180.088,0.37,4,202227,['movie tunes']
+2022-02-05,10,Cold Heart (PNAU Remix),Elton John & Dua Lipa,0.796,0.798,-6.312,0.0317,0.034,0.0952,116.032,0.942,4,202735,"['glam rock', 'mellow gold', 'piano rock', 'rock']"
+2022-02-12,1,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-02-12,2,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-02-12,3,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-02-12,4,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-02-12,5,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-02-12,6,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-02-12,7,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-02-12,8,Surface Pressure,Jessica Darrow,0.65,0.584,-8.286,0.307,0.0174,0.042,180.088,0.37,4,202227,['movie tunes']
+2022-02-12,9,Pushin P,Gunna & Future Featuring Young Thug,0.773,0.422,-4.572,0.187,0.00783,0.129,77.502,0.488,1,136267,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2022-02-12,10,Need To Know,Doja Cat,0.664,0.609,-6.509,0.0707,0.304,0.0926,130.041,0.194,4,210560,"['dance pop', 'pop']"
+2022-02-19,1,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-02-19,2,Do We Have A Problem?,Nicki Minaj X Lil Baby,0.842,0.505,-8.627,0.402,0.472,0.117,119.993,0.538,4,207065,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-02-19,3,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-02-19,4,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-02-19,5,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-02-19,6,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-02-19,7,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-02-19,8,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-02-19,9,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-02-19,10,Surface Pressure,Jessica Darrow,0.65,0.584,-8.286,0.307,0.0174,0.042,180.088,0.37,4,202227,['movie tunes']
+2022-02-26,1,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-02-26,2,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-02-26,3,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-02-26,4,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-02-26,5,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-02-26,6,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-02-26,7,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-02-26,8,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-02-26,9,Thats What I Want,Lil Nas X,0.737,0.846,-4.51,0.22,0.00614,0.0486,87.981,0.546,4,143901,['lgbtq+ hip hop']
+2022-02-26,10,Pushin P,Gunna & Future Featuring Young Thug,0.773,0.422,-4.572,0.187,0.00783,0.129,77.502,0.488,1,136267,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2022-03-05,1,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-03-05,2,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-03-05,3,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-03-05,4,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-03-05,5,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-03-05,6,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-03-05,7,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-03-05,8,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-03-05,9,Bad Habits,Ed Sheeran,0.807,0.893,-3.745,0.0347,0.0451,0.366,126.011,0.537,4,230747,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-03-05,10,Cold Heart (PNAU Remix),Elton John & Dua Lipa,0.796,0.798,-6.312,0.0317,0.034,0.0952,116.032,0.942,4,202735,"['glam rock', 'mellow gold', 'piano rock', 'rock']"
+2022-03-12,1,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-03-12,2,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-03-12,3,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-03-12,4,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-03-12,5,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-03-12,6,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-03-12,7,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-03-12,8,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-03-12,9,Bad Habits,Ed Sheeran,0.807,0.893,-3.745,0.0347,0.0451,0.366,126.011,0.537,4,230747,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-03-12,10,Cold Heart (PNAU Remix),Elton John & Dua Lipa,0.796,0.798,-6.312,0.0317,0.034,0.0952,116.032,0.942,4,202735,"['glam rock', 'mellow gold', 'piano rock', 'rock']"
+2022-03-19,1,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-03-19,2,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-03-19,3,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-03-19,4,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-03-19,5,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-03-19,6,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-03-19,7,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-03-19,8,Bad Habits,Ed Sheeran,0.807,0.893,-3.745,0.0347,0.0451,0.366,126.011,0.537,4,230747,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-03-19,9,Shivers,Ed Sheeran,0.788,0.859,-2.724,0.0856,0.281,0.0424,141.02,0.822,4,207853,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-03-19,10,Thats What I Want,Lil Nas X,0.737,0.846,-4.51,0.22,0.00614,0.0486,87.981,0.546,4,143901,['lgbtq+ hip hop']
+2022-03-26,1,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-03-26,2,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-03-26,3,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-03-26,4,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-03-26,5,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-03-26,6,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-03-26,7,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-03-26,8,Enemy,Imagine Dragons X JID,0.728,0.783,-4.424,0.266,0.237,0.434,77.011,0.555,4,173381,"['modern rock', 'pop', 'rock']"
+2022-03-26,9,Thats What I Want,Lil Nas X,0.737,0.846,-4.51,0.22,0.00614,0.0486,87.981,0.546,4,143901,['lgbtq+ hip hop']
+2022-03-26,10,Bad Habits,Ed Sheeran,0.807,0.893,-3.745,0.0347,0.0451,0.366,126.011,0.537,4,230747,"['pop', 'singer-songwriter pop', 'uk pop']"
+2022-04-02,1,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-04-02,2,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-04-02,3,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-04-02,4,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-04-02,5,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-04-02,6,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-04-02,7,Enemy,Imagine Dragons X JID,0.728,0.783,-4.424,0.266,0.237,0.434,77.011,0.555,4,173381,"['modern rock', 'pop', 'rock']"
+2022-04-02,8,Thats What I Want,Lil Nas X,0.737,0.846,-4.51,0.22,0.00614,0.0486,87.981,0.546,4,143901,['lgbtq+ hip hop']
+2022-04-02,9,Woman,Doja Cat,0.824,0.764,-4.175,0.0854,0.0888,0.117,107.998,0.881,4,172627,"['dance pop', 'pop']"
+2022-04-02,10,Easy On Me,Adele,0.604,0.366,-7.519,0.0282,0.578,0.133,141.981,0.13,4,224695,"['british soul', 'pop', 'pop soul', 'uk pop']"
+2022-04-09,1,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-04-09,2,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-04-09,3,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-04-09,4,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-04-09,5,Enemy,Imagine Dragons X JID,0.728,0.783,-4.424,0.266,0.237,0.434,77.011,0.555,4,173381,"['modern rock', 'pop', 'rock']"
+2022-04-09,6,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-04-09,7,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-04-09,8,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",0.577,0.45,-8.516,0.0834,0.357,0.111,205.863,0.83,4,216120,['movie tunes']
+2022-04-09,9,Thats What I Want,Lil Nas X,0.737,0.846,-4.51,0.22,0.00614,0.0486,87.981,0.546,4,143901,['lgbtq+ hip hop']
+2022-04-09,10,Woman,Doja Cat,0.824,0.764,-4.175,0.0854,0.0888,0.117,107.998,0.881,4,172627,"['dance pop', 'pop']"
+2022-04-16,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-04-16,2,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-04-16,3,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-04-16,4,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-04-16,5,Enemy,Imagine Dragons X JID,0.728,0.783,-4.424,0.266,0.237,0.434,77.011,0.555,4,173381,"['modern rock', 'pop', 'rock']"
+2022-04-16,6,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-04-16,7,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-04-16,8,Woman,Doja Cat,0.824,0.764,-4.175,0.0854,0.0888,0.117,107.998,0.881,4,172627,"['dance pop', 'pop']"
+2022-04-16,9,abcdefu,GAYLE,0.695,0.54,-5.692,0.0493,0.299,0.367,121.932,0.415,4,168602,"['alt z', 'modern alternative pop']"
+2022-04-16,10,Thats What I Want,Lil Nas X,0.737,0.846,-4.51,0.22,0.00614,0.0486,87.981,0.546,4,143901,['lgbtq+ hip hop']
+2022-04-23,1,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-04-23,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-04-23,3,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-04-23,4,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-04-23,5,Enemy,Imagine Dragons X JID,0.728,0.783,-4.424,0.266,0.237,0.434,77.011,0.555,4,173381,"['modern rock', 'pop', 'rock']"
+2022-04-23,6,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-04-23,7,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-04-23,8,Woman,Doja Cat,0.824,0.764,-4.175,0.0854,0.0888,0.117,107.998,0.881,4,172627,"['dance pop', 'pop']"
+2022-04-23,9,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-04-23,10,Thats What I Want,Lil Nas X,0.737,0.846,-4.51,0.22,0.00614,0.0486,87.981,0.546,4,143901,['lgbtq+ hip hop']
+2022-04-30,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-04-30,2,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-04-30,3,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-04-30,4,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-04-30,5,Enemy,Imagine Dragons X JID,0.728,0.783,-4.424,0.266,0.237,0.434,77.011,0.555,4,173381,"['modern rock', 'pop', 'rock']"
+2022-04-30,6,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-04-30,7,Don't Think Jesus,Morgan Wallen,0.578,0.431,-7.034,0.0269,0.469,0.137,116.979,0.21,3,226975,['contemporary country']
+2022-04-30,8,Woman,Doja Cat,0.824,0.764,-4.175,0.0854,0.0888,0.117,107.998,0.881,4,172627,"['dance pop', 'pop']"
+2022-04-30,9,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-04-30,10,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-05-07,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-05-07,2,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-05-07,3,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-05-07,4,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-05-07,5,Enemy,Imagine Dragons X JID,0.728,0.783,-4.424,0.266,0.237,0.434,77.011,0.555,4,173381,"['modern rock', 'pop', 'rock']"
+2022-05-07,6,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-05-07,7,Woman,Doja Cat,0.824,0.764,-4.175,0.0854,0.0888,0.117,107.998,0.881,4,172627,"['dance pop', 'pop']"
+2022-05-07,8,Ghost,Justin Bieber,0.601,0.741,-5.569,0.0478,0.185,0.415,153.96,0.441,4,153190,"['canadian pop', 'pop']"
+2022-05-07,9,Super Gremlin,Kodak Black,0.825,0.414,-6.634,0.144,0.00265,0.357,72.993,0.106,4,200548,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2022-05-07,10,Thats What I Want,Lil Nas X,0.737,0.846,-4.51,0.22,0.00614,0.0486,87.981,0.546,4,143901,['lgbtq+ hip hop']
+2022-05-14,1,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-05-14,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-05-14,3,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-05-14,4,Puffin On Zootiez,Future,0.883,0.657,-5.748,0.305,0.0603,0.128,124.992,0.284,4,172933,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-05-14,5,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-05-14,6,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-05-14,7,Enemy,Imagine Dragons X JID,0.728,0.783,-4.424,0.266,0.237,0.434,77.011,0.555,4,173381,"['modern rock', 'pop', 'rock']"
+2022-05-14,8,712PM,Future,0.711,0.686,-6.409,0.271,0.0355,0.124,146.971,0.536,4,173187,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-05-14,9,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-05-14,10,I'm Dat N***a,Future,0.911,0.573,-5.573,0.163,0.0112,0.131,144.026,0.145,4,271840,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-05-21,1,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-05-21,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-05-21,3,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-05-21,4,Moscow Mule,Bad Bunny,0.804,0.674,-5.453,0.0333,0.294,0.115,99.968,0.292,4,245940,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-05-21,5,Titi Me Pregunto,Bad Bunny,0.65,0.715,-5.198,0.253,0.0993,0.126,106.672,0.187,4,243717,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-05-21,6,Despues de La Playa,Bad Bunny,0.564,0.903,-3.221,0.307,0.356,0.175,78.293,0.607,4,230400,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-05-21,7,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-05-21,8,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-05-21,9,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-05-21,10,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-05-28,1,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-05-28,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-05-28,3,N95,Kendrick Lamar,0.79,0.67,-5.527,0.105,0.377,0.119,139.956,0.408,4,195950,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2022-05-28,4,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-05-28,5,Die Hard,"Kendrick Lamar, Blxst & Amanda Reifer",0.775,0.736,-8.072,0.247,0.319,0.127,100.988,0.362,4,239027,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2022-05-28,6,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2022-05-28,7,Silent Hill,Kendrick Lamar & Kodak Black,0.907,0.577,-6.737,0.0767,0.438,0.137,140.07,0.801,4,220779,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2022-05-28,8,United In Grief,Kendrick Lamar,0.529,0.845,-8.142,0.404,0.244,0.143,85.63,0.331,3,255378,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2022-05-28,9,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-05-28,10,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-06-04,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-06-04,2,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-06-04,3,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-06-04,4,Late Night Talking,Harry Styles,0.714,0.728,-4.595,0.0468,0.298,0.106,114.996,0.901,4,177955,['pop']
+2022-06-04,5,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-06-04,6,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-06-04,7,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-06-04,8,Music For A Sushi Restaurant,Harry Styles,0.72,0.715,-4.652,0.04,0.258,0.107,107.041,0.357,4,193813,['pop']
+2022-06-04,9,Matilda,Harry Styles,0.507,0.294,-10.0,0.04,0.896,0.0966,114.199,0.386,4,245964,['pop']
+2022-06-04,10,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-06-11,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-06-11,2,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-06-11,3,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-06-11,4,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-06-11,5,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-06-11,6,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-06-11,7,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-06-11,8,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-06-11,9,Late Night Talking,Harry Styles,0.714,0.728,-4.595,0.0468,0.298,0.106,114.996,0.901,4,177955,['pop']
+2022-06-11,10,Stay,The Kid LAROI & Justin Bieber,0.591,0.764,-5.484,0.0483,0.0383,0.103,169.928,0.478,4,141806,['australian hip hop']
+2022-06-18,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-06-18,2,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-06-18,3,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-06-18,4,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-06-18,5,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-06-18,6,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-06-18,7,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-06-18,8,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-06-18,9,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-06-18,10,Titi Me Pregunto,Bad Bunny,0.65,0.715,-5.198,0.253,0.0993,0.126,106.672,0.187,4,243717,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-06-25,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-06-25,2,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-06-25,3,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-06-25,4,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-06-25,5,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-06-25,6,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-06-25,7,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-06-25,8,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-06-25,9,Titi Me Pregunto,Bad Bunny,0.65,0.715,-5.198,0.253,0.0993,0.126,106.672,0.187,4,243717,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-06-25,10,Glimpse Of Us,Joji,0.44,0.317,-9.258,0.0531,0.891,0.141,169.914,0.268,3,233456,['viral pop']
+2022-07-02,1,Jimmy Cooks,Drake Featuring 21 Savage,0.529,0.673,-4.711,0.175,0.000307,0.093,165.921,0.366,4,218365,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-07-02,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-07-02,3,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-07-02,4,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-07-02,5,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-07-02,6,Sticky,Drake,0.853,0.495,-14.63,0.14,0.0917,0.0844,137.027,0.0774,4,243228,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-07-02,7,Falling Back,Drake,0.718,0.758,-8.29,0.0703,0.238,0.11,118.989,0.349,4,266179,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-07-02,8,Glimpse Of Us,Joji,0.44,0.317,-9.258,0.0531,0.891,0.141,169.914,0.268,3,233456,['viral pop']
+2022-07-02,9,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-07-02,10,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-07-09,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-07-09,2,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-07-09,3,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-07-09,4,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-07-09,5,Jimmy Cooks,Drake Featuring 21 Savage,0.529,0.673,-4.711,0.175,0.000307,0.093,165.921,0.366,4,218365,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-07-09,6,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-07-09,7,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-07-09,8,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-07-09,9,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-07-09,10,Glimpse Of Us,Joji,0.44,0.317,-9.258,0.0531,0.891,0.141,169.914,0.268,3,233456,['viral pop']
+2022-07-16,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-07-16,2,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-07-16,3,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-07-16,4,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-07-16,5,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-07-16,6,Jimmy Cooks,Drake Featuring 21 Savage,0.529,0.673,-4.711,0.175,0.000307,0.093,165.921,0.366,4,218365,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-07-16,7,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-07-16,8,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-07-16,9,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-07-16,10,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-07-23,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-07-23,2,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-07-23,3,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-07-23,4,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-07-23,5,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-07-23,6,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-07-23,7,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-07-23,8,Jimmy Cooks,Drake Featuring 21 Savage,0.529,0.673,-4.711,0.175,0.000307,0.093,165.921,0.366,4,218365,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-07-23,9,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-07-23,10,Big Energy,Latto,0.935,0.807,-3.838,0.114,0.0514,0.349,106.017,0.813,4,173182,['trap queen']
+2022-07-30,1,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-07-30,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-07-30,3,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-07-30,4,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-07-30,5,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-07-30,6,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-07-30,7,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-07-30,8,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-07-30,9,Late Night Talking,Harry Styles,0.714,0.728,-4.595,0.0468,0.298,0.106,114.996,0.901,4,177955,['pop']
+2022-07-30,10,Jimmy Cooks,Drake Featuring 21 Savage,0.529,0.673,-4.711,0.175,0.000307,0.093,165.921,0.366,4,218365,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-08-06,1,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-08-06,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-08-06,3,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-08-06,4,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-08-06,5,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-08-06,6,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-08-06,7,Late Night Talking,Harry Styles,0.714,0.728,-4.595,0.0468,0.298,0.106,114.996,0.901,4,177955,['pop']
+2022-08-06,8,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-08-06,9,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-08-06,10,Heat Waves,Glass Animals,0.761,0.525,-6.9,0.0944,0.44,0.0921,80.87,0.531,4,238805,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2022-08-13,1,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-08-13,2,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-08-13,3,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-08-13,4,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-08-13,5,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-08-13,6,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-08-13,7,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-08-13,8,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-08-13,9,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-08-13,10,Late Night Talking,Harry Styles,0.714,0.728,-4.595,0.0468,0.298,0.106,114.996,0.901,4,177955,['pop']
+2022-08-20,1,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-08-20,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-08-20,3,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-08-20,4,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-08-20,5,Staying Alive,DJ Khaled Featuring Drake & Lil Baby,0.718,0.461,-7.676,0.0797,0.068,0.283,129.953,0.181,4,178176,"['hip hop', 'miami hip hop', 'pop rap', 'rap']"
+2022-08-20,6,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-08-20,7,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-08-20,8,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-08-20,9,First Class,Jack Harlow,0.902,0.582,-5.902,0.109,0.111,0.111,107.005,0.332,4,173948,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2022-08-20,10,Bad Decisions,"benny blanco, BTS & Snoop Dogg",0.762,0.861,-3.296,0.0955,0.0185,0.264,120.048,0.955,4,172714,['pop']
+2022-08-27,1,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-08-27,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-08-27,3,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-08-27,4,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-08-27,5,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-08-27,6,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-08-27,7,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-08-27,8,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-08-27,9,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-08-27,10,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-09-03,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-09-03,2,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-09-03,3,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-09-03,4,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-09-03,5,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-09-03,6,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-09-03,7,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-09-03,8,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-09-03,9,Me Porto Bonito,Bad Bunny & Chencho Corleone,0.911,0.712,-5.105,0.0817,0.0901,0.0933,92.005,0.425,4,178567,"['reggaeton', 'trap latino', 'urbano latino']"
+2022-09-03,10,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-09-10,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-09-10,2,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-09-10,3,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-09-10,4,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-09-10,5,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-09-10,6,Hold Me Closer,Elton John & Britney Spears,0.667,0.75,-4.602,0.0906,0.0746,0.197,126.041,0.486,4,202246,"['glam rock', 'mellow gold', 'piano rock', 'rock']"
+2022-09-10,7,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-09-10,8,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-09-10,9,Break My Soul,Beyonce,0.693,0.887,-5.039,0.0795,0.0581,0.27,114.942,0.864,4,278282,"['pop', 'r&b']"
+2022-09-10,10,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-09-17,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-09-17,2,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-09-17,3,Late Night Talking,Harry Styles,0.714,0.728,-4.595,0.0468,0.298,0.106,114.996,0.901,4,177955,['pop']
+2022-09-17,4,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-09-17,5,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-09-17,6,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-09-17,7,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-09-17,8,I Ain't Worried,OneRepublic,0.704,0.797,-5.927,0.0475,0.0826,0.0546,139.994,0.825,4,148486,"['piano rock', 'pop']"
+2022-09-17,9,Running Up That Hill (A Deal With God),Kate Bush,0.629,0.545,-13.123,0.0546,0.719,0.0604,108.376,0.194,4,298933,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']"
+2022-09-17,10,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2022-09-24,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-09-24,2,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-09-24,3,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-09-24,4,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-09-24,5,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-09-24,6,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2022-09-24,7,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-09-24,8,I Ain't Worried,OneRepublic,0.704,0.797,-5.927,0.0475,0.0826,0.0546,139.994,0.825,4,148486,"['piano rock', 'pop']"
+2022-09-24,9,Late Night Talking,Harry Styles,0.714,0.728,-4.595,0.0468,0.298,0.106,114.996,0.901,4,177955,['pop']
+2022-09-24,10,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-10-01,1,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-10-01,2,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-10-01,3,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-10-01,4,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-10-01,5,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-10-01,6,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2022-10-01,7,I Ain't Worried,OneRepublic,0.704,0.797,-5.927,0.0475,0.0826,0.0546,139.994,0.825,4,148486,"['piano rock', 'pop']"
+2022-10-01,8,The Kind Of Love We Make,Luke Combs,0.608,0.745,-4.13,0.0277,0.0226,0.0942,102.025,0.464,4,224427,"['contemporary country', 'country']"
+2022-10-01,9,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-10-01,10,Wait For U,Future Featuring Drake & Tems,0.463,0.642,-4.474,0.34,0.314,0.0686,83.389,0.339,4,189893,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2022-10-08,1,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-10-08,2,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-10-08,3,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-10-08,4,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-10-08,5,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-10-08,6,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-10-08,7,I Ain't Worried,OneRepublic,0.704,0.797,-5.927,0.0475,0.0826,0.0546,139.994,0.825,4,148486,"['piano rock', 'pop']"
+2022-10-08,8,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2022-10-08,9,Tomorrow 2,GloRilla & Cardi B,0.839,0.813,-3.979,0.36,0.0744,0.116,79.816,0.711,4,209811,['southern hip hop']
+2022-10-08,10,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-10-15,1,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-10-15,2,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-10-15,3,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-10-15,4,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-10-15,5,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-10-15,6,I Ain't Worried,OneRepublic,0.704,0.797,-5.927,0.0475,0.0826,0.0546,139.994,0.825,4,148486,"['piano rock', 'pop']"
+2022-10-15,7,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2022-10-15,8,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-10-15,9,The Kind Of Love We Make,Luke Combs,0.608,0.745,-4.13,0.0277,0.0226,0.0942,102.025,0.464,4,224427,"['contemporary country', 'country']"
+2022-10-15,10,About Damn Time,Lizzo,0.836,0.743,-6.305,0.0656,0.0995,0.335,108.966,0.722,4,191822,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2022-10-22,1,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-10-22,2,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-10-22,3,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-10-22,4,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-10-22,5,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2022-10-22,6,I Ain't Worried,OneRepublic,0.704,0.797,-5.927,0.0475,0.0826,0.0546,139.994,0.825,4,148486,"['piano rock', 'pop']"
+2022-10-22,7,Sunroof,Nicky Youre & dazy,0.768,0.714,-5.11,0.0401,0.352,0.15,131.443,0.842,4,163026,['singer-songwriter pop']
+2022-10-22,8,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-10-22,9,The Kind Of Love We Make,Luke Combs,0.608,0.745,-4.13,0.0277,0.0226,0.0942,102.025,0.464,4,224427,"['contemporary country', 'country']"
+2022-10-22,10,Vegas,Doja Cat,0.789,0.604,-7.616,0.25,0.0768,0.137,159.979,0.765,4,183027,"['dance pop', 'pop']"
+2022-10-29,1,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-10-29,2,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-10-29,3,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-10-29,4,California Breeze,Lil Baby,0.837,0.677,-7.019,0.404,0.00328,0.108,108.203,0.218,5,177789,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2022-10-29,5,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-10-29,6,I Ain't Worried,OneRepublic,0.704,0.797,-5.927,0.0475,0.0826,0.0546,139.994,0.825,4,148486,"['piano rock', 'pop']"
+2022-10-29,7,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2022-10-29,8,Forever,Lil Baby Featuring Fridayy,0.646,0.252,-12.177,0.15,0.387,0.194,107.306,0.147,4,167977,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2022-10-29,9,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-10-29,10,Real Spill,Lil Baby,0.785,0.431,-12.269,0.573,0.043,0.0953,157.035,0.31,4,198722,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2022-11-05,1,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-11-05,2,Lavender Haze,Taylor Swift,0.735,0.449,-10.56,0.0883,0.23,0.132,97.05,0.0955,4,202396,['pop']
+2022-11-05,3,Maroon,Taylor Swift,0.655,0.384,-8.29,0.0349,0.0634,0.0973,108.058,0.0384,4,218271,['pop']
+2022-11-05,4,Snow On The Beach,Taylor Swift Featuring Lana Del Rey,0.664,0.399,-10.997,0.0349,0.797,0.105,109.937,0.265,4,229943,['pop']
+2022-11-05,5,Midnight Rain,Taylor Swift,0.604,0.375,-11.637,0.0633,0.71,0.116,137.651,0.203,4,174783,['pop']
+2022-11-05,6,Bejeweled,Taylor Swift,0.687,0.551,-9.202,0.0787,0.0593,0.09,163.994,0.443,4,194166,['pop']
+2022-11-05,7,Question...?,Taylor Swift,0.654,0.51,-8.767,0.242,0.206,0.249,108.874,0.105,4,210557,['pop']
+2022-11-05,8,"You're On Your Own, Kid",Taylor Swift,0.696,0.39,-10.331,0.0616,0.447,0.125,120.032,0.395,4,194207,['pop']
+2022-11-05,9,Karma,Taylor Swift,0.64,0.619,-7.108,0.065,0.062,0.475,90.008,0.121,4,204852,['pop']
+2022-11-05,10,Vigilante Shit,Taylor Swift,0.872,0.267,-10.764,0.387,0.166,0.123,79.964,0.168,4,164801,['pop']
+2022-11-12,1,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-11-12,2,Lift Me Up,Rihanna,0.247,0.299,-6.083,0.0315,0.899,0.131,177.115,0.172,4,196520,"['barbadian pop', 'pop', 'urban contemporary']"
+2022-11-12,3,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-11-12,4,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-11-12,5,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-11-12,6,Lavender Haze,Taylor Swift,0.735,0.449,-10.56,0.0883,0.23,0.132,97.05,0.0955,4,202396,['pop']
+2022-11-12,7,Midnight Rain,Taylor Swift,0.604,0.375,-11.637,0.0633,0.71,0.116,137.651,0.203,4,174783,['pop']
+2022-11-12,8,I Like You (A Happier Song),Post Malone Featuring Doja Cat,0.733,0.67,-6.009,0.0751,0.121,0.121,100.964,0.472,4,192841,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2022-11-12,9,Bejeweled,Taylor Swift,0.687,0.551,-9.202,0.0787,0.0593,0.09,163.994,0.443,4,194166,['pop']
+2022-11-12,10,Super Freaky Girl,Nicki Minaj,0.95,0.891,-2.653,0.241,0.0645,0.309,133.01,0.912,4,170977,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2022-11-19,1,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-11-19,2,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-19,3,Major Distribution,Drake & 21 Savage,0.911,0.536,-10.491,0.33,0.0113,0.0697,131.035,0.231,4,170502,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-19,4,On BS,Drake & 21 Savage,0.842,0.367,-7.273,0.643,0.017,0.159,157.996,0.363,4,261544,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-19,5,Spin Bout U,Drake & 21 Savage,0.763,0.72,-6.383,0.0447,0.00961,0.165,129.971,0.229,4,214589,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-19,6,Pussy & Millions,Drake & 21 Savage Featuring Travis Scott,0.747,0.618,-6.685,0.111,0.061,0.377,122.09,0.377,4,242027,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-19,7,Privileged Rappers,Drake & 21 Savage,0.933,0.602,-7.532,0.189,0.00326,0.128,144.041,0.65,4,160821,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-19,8,Circo Loco,Drake & 21 Savage,0.732,0.584,-8.525,0.076,0.00903,0.318,103.981,0.262,4,236795,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-19,9,BackOutsideBoyz,Drake,0.85,0.427,-8.367,0.319,0.0467,0.373,142.162,0.457,4,152962,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-19,10,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-11-26,1,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-11-26,2,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-26,3,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-11-26,4,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-11-26,5,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-11-26,6,Major Distribution,Drake & 21 Savage,0.911,0.536,-10.491,0.33,0.0113,0.0697,131.035,0.231,4,170502,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-26,7,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2022-11-26,8,Lift Me Up,Rihanna,0.247,0.299,-6.083,0.0315,0.899,0.131,177.115,0.172,4,196520,"['barbadian pop', 'pop', 'urban contemporary']"
+2022-11-26,9,Spin Bout U,Drake & 21 Savage,0.763,0.72,-6.383,0.0447,0.00961,0.165,129.971,0.229,4,214589,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-11-26,10,On BS,Drake & 21 Savage,0.842,0.367,-7.273,0.643,0.017,0.159,157.996,0.363,4,261544,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-12-03,1,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-12-03,2,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-12-03,3,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-12-03,4,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-12-03,5,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2022-12-03,6,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2022-12-03,7,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2022-12-03,8,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2022-12-03,9,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2022-12-03,10,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2022-12-10,1,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-12-10,2,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2022-12-10,3,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2022-12-10,4,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-12-10,5,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2022-12-10,6,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2022-12-10,7,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-12-10,8,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2022-12-10,9,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2022-12-10,10,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2022-12-17,1,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2022-12-17,2,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2022-12-17,3,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2022-12-17,4,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2022-12-17,5,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2022-12-17,6,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-12-17,7,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-12-17,8,Superhero (Heroes & Villains),"Metro Boomin, Future & Chris Brown",0.709,0.583,-5.298,0.204,0.138,0.195,116.624,0.533,4,182667,['rap']
+2022-12-17,9,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2022-12-17,10,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2022-12-24,1,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2022-12-24,2,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2022-12-24,3,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2022-12-24,4,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2022-12-24,5,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2022-12-24,6,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2022-12-24,7,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-12-24,8,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2022-12-24,9,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2022-12-24,10,Nobody Gets Me,SZA,0.358,0.284,-8.285,0.0285,0.805,0.183,99.796,0.276,3,180853,"['pop', 'r&b', 'rap']"
+2022-12-31,1,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2022-12-31,2,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2022-12-31,3,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2022-12-31,4,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2022-12-31,5,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2022-12-31,6,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2022-12-31,7,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2022-12-31,8,Feliz Navidad,Jose Feliciano,0.513,0.831,-9.004,0.0383,0.55,0.336,148.837,0.963,4,182067,"['latin pop', 'puerto rican pop']"
+2022-12-31,9,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2022-12-31,10,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-01-07,1,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2023-01-07,2,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2023-01-07,3,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2023-01-07,4,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2023-01-07,5,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2023-01-07,6,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2023-01-07,7,Feliz Navidad,Jose Feliciano,0.513,0.831,-9.004,0.0383,0.55,0.336,148.837,0.963,4,182067,"['latin pop', 'puerto rican pop']"
+2023-01-07,8,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-01-07,9,The Christmas Song (Merry Christmas To You),Nat King Cole,0.32,0.21,-15.231,0.0345,0.92,0.138,73.196,0.208,5,192160,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']"
+2023-01-07,10,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-01-14,1,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-01-14,2,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-01-14,3,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-01-14,4,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2023-01-14,5,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-01-14,6,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-01-14,7,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2023-01-14,8,Die For You,The Weeknd,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-01-14,9,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2023-01-14,10,Cuff It,Beyonce,0.78,0.689,-5.668,0.141,0.0368,0.0698,115.042,0.642,4,225389,"['pop', 'r&b']"
+2023-01-21,1,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-01-21,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-01-21,3,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-01-21,4,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2023-01-21,5,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-01-21,6,Die For You,The Weeknd,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-01-21,7,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-01-21,8,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2023-01-21,9,Bad Habit,Steve Lacy,0.686,0.494,-7.093,0.0355,0.613,0.402,168.946,0.7,4,232067,['afrofuturism']
+2023-01-21,10,Something In The Orange,Zach Bryan,0.369,0.192,-12.151,0.04,0.555,0.0954,175.212,0.148,3,228013,['classic oklahoma country']
+2023-01-28,1,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-01-28,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-01-28,3,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-01-28,4,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-01-28,5,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-01-28,6,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2023-01-28,7,Die For You,The Weeknd,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-01-28,8,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-01-28,9,"Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,0.842,0.745,-4.231,0.0399,0.281,0.118,122.06,0.53,4,214945,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']"
+2023-01-28,10,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2023-02-04,1,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-02-04,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-02-04,3,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-02-04,4,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-02-04,5,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-02-04,6,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2023-02-04,7,Die For You,The Weeknd,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-02-04,8,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-02-04,9,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2023-02-04,10,Golden Hour,JVKE,0.515,0.593,-4.801,0.0322,0.653,0.25,94.467,0.153,3,209260,"['modern indie pop', 'pov: indie', 'singer-songwriter pop']"
+2023-02-11,1,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-02-11,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-02-11,3,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-02-11,4,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-02-11,5,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-02-11,6,Die For You,The Weeknd,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-02-11,7,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2023-02-11,8,Rich Flex,Drake & 21 Savage,0.549,0.518,-9.39,0.257,0.0517,0.378,160.07,0.418,4,239360,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-02-11,9,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2023-02-11,10,Just Wanna Rock,Lil Uzi Vert,0.486,0.545,-7.924,0.0336,0.0652,0.0642,150.187,0.0385,4,123891,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']"
+2023-02-18,1,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-02-18,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-02-18,3,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-02-18,4,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-02-18,5,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-02-18,6,Cuff It,Beyonce,0.78,0.689,-5.668,0.141,0.0368,0.0698,115.042,0.642,4,225389,"['pop', 'r&b']"
+2023-02-18,7,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-02-18,8,Die For You,The Weeknd,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-02-18,9,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2023-02-18,10,As It Was,Harry Styles,0.52,0.731,-5.338,0.0557,0.342,0.311,173.93,0.662,4,167303,['pop']
+2023-02-25,1,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-02-25,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-02-25,3,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-02-25,4,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-02-25,5,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-02-25,6,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-02-25,7,Die For You,The Weeknd,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-02-25,8,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-02-25,9,Cuff It,Beyonce,0.78,0.689,-5.668,0.141,0.0368,0.0698,115.042,0.642,4,225389,"['pop', 'r&b']"
+2023-02-25,10,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2023-03-04,1,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-03-04,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-03-04,3,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-03-04,4,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-03-04,5,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-03-04,6,Die For You,The Weeknd,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-03-04,7,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-03-04,8,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-03-04,9,Cuff It,Beyonce,0.78,0.689,-5.668,0.141,0.0368,0.0698,115.042,0.642,4,225389,"['pop', 'r&b']"
+2023-03-04,10,I'm Good (Blue),David Guetta & Bebe Rexha,0.561,0.965,-3.673,0.0343,0.00383,0.371,128.04,0.304,4,175238,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+2023-03-11,1,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-03-11,2,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-03-11,3,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-03-11,4,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-03-11,5,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-03-11,6,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-03-11,7,TQG,Karol G x Shakira,0.587,0.647,-3.385,0.327,0.619,0.106,90.123,0.686,4,197933,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2023-03-11,8,Unholy,Sam Smith & Kim Petras,0.719,0.454,-7.384,0.0707,0.0138,0.318,131.007,0.224,4,156943,"['pop', 'uk pop']"
+2023-03-11,9,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-03-11,10,Cuff It,Beyonce,0.78,0.689,-5.668,0.141,0.0368,0.0698,115.042,0.642,4,225389,"['pop', 'r&b']"
+2023-03-18,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-03-18,2,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-03-18,3,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-03-18,4,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-03-18,5,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-03-18,6,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-03-18,7,Thought You Should Know,Morgan Wallen,0.537,0.701,-6.214,0.0264,0.48,0.145,139.995,0.552,4,215572,['contemporary country']
+2023-03-18,8,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2023-03-18,9,Thinkin' Bout Me,Morgan Wallen,0.659,0.789,-5.723,0.0293,0.487,0.115,139.982,0.468,4,177388,['contemporary country']
+2023-03-18,10,One Thing At A Time,Morgan Wallen,0.614,0.913,-5.126,0.0296,0.0042,0.26,141.982,0.92,4,206865,['contemporary country']
+2023-03-25,1,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-03-25,2,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-03-25,3,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-03-25,4,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-03-25,5,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-03-25,6,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-03-25,7,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-03-25,8,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-03-25,9,Thought You Should Know,Morgan Wallen,0.537,0.701,-6.214,0.0264,0.48,0.145,139.995,0.552,4,215572,['contemporary country']
+2023-03-25,10,You Proof,Morgan Wallen,0.728,0.818,-5.068,0.0329,0.323,0.582,119.706,0.681,4,157478,['contemporary country']
+2023-04-01,1,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-04-01,2,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-04-01,3,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-04-01,4,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-04-01,5,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-04-01,6,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-04-01,7,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-04-01,8,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-04-01,9,Players,Coi Leray,0.948,0.512,-5.74,0.146,0.0269,0.0504,105.004,0.599,4,139560,"['new jersey underground rap', 'trap queen']"
+2023-04-01,10,Rock And A Hard Place,Bailey Zimmerman,0.582,0.568,-7.3,0.0275,0.577,0.105,121.991,0.394,3,207541,"['contemporary country', 'modern country pop']"
+2023-04-08,1,Like Crazy,Jimin,0.629,0.733,-5.445,0.0419,0.0025,0.357,120.001,0.362,4,212241,['k-pop']
+2023-04-08,2,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-04-08,3,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-04-08,4,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-04-08,5,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-04-08,6,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-04-08,7,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-04-08,8,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-04-08,9,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-04-08,10,Players,Coi Leray,0.948,0.512,-5.74,0.146,0.0269,0.0504,105.004,0.599,4,139560,"['new jersey underground rap', 'trap queen']"
+2023-04-15,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-04-15,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-04-15,3,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-04-15,4,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-04-15,5,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-04-15,6,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-04-15,7,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-04-15,8,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-04-15,9,Players,Coi Leray,0.948,0.512,-5.74,0.146,0.0269,0.0504,105.004,0.599,4,139560,"['new jersey underground rap', 'trap queen']"
+2023-04-15,10,Rock And A Hard Place,Bailey Zimmerman,0.582,0.568,-7.3,0.0275,0.577,0.105,121.991,0.394,3,207541,"['contemporary country', 'modern country pop']"
+2023-04-22,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-04-22,2,Search & Rescue,Drake,0.828,0.441,-8.562,0.0685,0.0757,0.295,140.009,0.533,4,272113,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-04-22,3,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-04-22,4,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-04-22,5,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-04-22,6,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-04-22,7,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-04-22,8,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-04-22,9,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-04-22,10,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-04-29,1,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-04-29,2,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-04-29,3,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-04-29,4,Princess Diana,Ice Spice & Nicki Minaj,0.898,0.689,-5.092,0.171,0.165,0.0957,147.964,0.772,4,172125,['bronx drill']
+2023-04-29,5,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-04-29,6,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-04-29,7,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-04-29,8,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-04-29,9,Search & Rescue,Drake,0.828,0.441,-8.562,0.0685,0.0757,0.295,140.009,0.533,4,272113,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-04-29,10,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-05-06,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-05-06,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-05-06,3,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-05-06,4,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-05-06,5,Un x100to,Grupo Frontera X Bad Bunny,0.571,0.72,-4.089,0.0458,0.213,0.271,83.827,0.542,4,194563,['musica chihuahuense']
+2023-05-06,6,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-05-06,7,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-05-06,8,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-05-06,9,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-05-06,10,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-05-13,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-05-13,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-05-13,3,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-05-13,4,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-05-13,5,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-05-13,6,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-05-13,7,Un x100to,Grupo Frontera X Bad Bunny,0.571,0.72,-4.089,0.0458,0.213,0.271,83.827,0.542,4,194563,['musica chihuahuense']
+2023-05-13,8,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-05-13,9,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,0.696,0.809,-8.254,0.05,0.252,0.248,132.962,0.857,4,131013,['bedroom pop']
+2023-05-13,10,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-05-20,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-05-20,2,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-05-20,3,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-05-20,4,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-05-20,5,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-05-20,6,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-05-20,7,Un x100to,Grupo Frontera X Bad Bunny,0.571,0.72,-4.089,0.0458,0.213,0.271,83.827,0.542,4,194563,['musica chihuahuense']
+2023-05-20,8,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-05-20,9,Die For You,The Weeknd & Ariana Grande,0.586,0.525,-7.163,0.0616,0.111,0.134,133.63,0.507,4,260253,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2023-05-20,10,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-05-27,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-05-27,2,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-05-27,3,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-05-27,4,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-05-27,5,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-05-27,6,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-05-27,7,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-05-27,8,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-05-27,9,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-05-27,10,Anti-Hero,Taylor Swift,0.633,0.648,-6.645,0.062,0.121,0.161,96.888,0.49,4,200690,['pop']
+2023-06-03,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-06-03,2,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-06-03,3,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-06-03,4,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-06-03,5,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-06-03,6,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-06-03,7,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-06-03,8,Where She Goes,Bad Bunny,0.652,0.8,-4.019,0.0614,0.143,0.112,143.978,0.234,4,231704,"['reggaeton', 'trap latino', 'urbano latino']"
+2023-06-03,9,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-06-03,10,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-06-10,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-06-10,2,Karma,Taylor Swift Featuring Ice Spice,0.64,0.619,-7.108,0.065,0.062,0.475,90.008,0.121,4,204852,['pop']
+2023-06-10,3,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-06-10,4,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-06-10,5,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-06-10,6,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-06-10,7,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-06-10,8,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-06-10,9,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-06-10,10,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-06-17,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-06-17,2,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-06-17,3,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-06-17,4,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-06-17,5,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-06-17,6,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-06-17,7,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-06-17,8,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-06-17,9,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-06-17,10,Karma,Taylor Swift Featuring Ice Spice,0.64,0.619,-7.108,0.065,0.062,0.475,90.008,0.121,4,204852,['pop']
+2023-06-24,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-06-24,2,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-06-24,3,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-06-24,4,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-06-24,5,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-06-24,6,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-06-24,7,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-06-24,8,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-06-24,9,Karma,Taylor Swift Featuring Ice Spice,0.64,0.619,-7.108,0.065,0.062,0.475,90.008,0.121,4,204852,['pop']
+2023-06-24,10,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-07-01,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-07-01,2,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-07-01,3,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-07-01,4,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-07-01,5,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-07-01,6,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-07-01,7,Karma,Taylor Swift Featuring Ice Spice,0.64,0.619,-7.108,0.065,0.062,0.475,90.008,0.121,4,204852,['pop']
+2023-07-01,8,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-07-01,9,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-07-01,10,Ella Baila Sola,Eslabon Armado X Peso Pluma,0.668,0.758,-5.176,0.0332,0.483,0.0837,147.989,0.834,3,165671,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']"
+2023-07-08,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-07-08,2,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-07-08,3,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-07-08,4,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-07-08,5,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-07-08,6,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-07-08,7,Barbie World,Nicki Minaj & Ice Spice With Aqua,0.77,0.58,-8.393,0.247,0.519,0.233,144.072,0.753,4,109750,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2023-07-08,8,Karma,Taylor Swift Featuring Ice Spice,0.64,0.619,-7.108,0.065,0.062,0.475,90.008,0.121,4,204852,['pop']
+2023-07-08,9,Kill Bill,SZA,0.644,0.728,-5.75,0.0351,0.0543,0.161,88.993,0.43,4,153947,"['pop', 'r&b', 'rap']"
+2023-07-08,10,Creepin',"Metro Boomin, The Weeknd & 21 Savage",0.716,0.613,-6.018,0.0522,0.391,0.0813,97.914,0.157,4,221520,['rap']
+2023-07-15,1,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-07-15,2,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-07-15,3,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-07-15,4,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-07-15,5,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-07-15,6,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-07-15,7,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-07-15,8,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-07-15,9,Karma,Taylor Swift Featuring Ice Spice,0.64,0.619,-7.108,0.065,0.062,0.475,90.008,0.121,4,204852,['pop']
+2023-07-15,10,Favorite Song,Toosii,0.813,0.381,-9.339,0.0494,0.276,0.0985,116.028,0.434,4,208630,['north carolina hip hop']
+2023-07-22,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-07-22,2,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-07-22,3,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-07-22,4,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-07-22,5,I Can See You (Taylor's Version) (From The Vault),Taylor Swift,0.695,0.768,-4.883,0.0344,0.0577,0.0426,123.054,0.813,4,273186,['pop']
+2023-07-22,6,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-07-22,7,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-07-22,8,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-07-22,9,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-07-22,10,Karma,Taylor Swift Featuring Ice Spice,0.64,0.619,-7.108,0.065,0.062,0.475,90.008,0.121,4,204852,['pop']
+2023-07-29,1,Seven,Jung Kook Featuring Latto,0.788,0.841,-3.955,0.0432,0.301,0.0772,124.986,0.904,4,184400,['k-pop']
+2023-07-29,2,Try That In A Small Town,Jason Aldean,0.457,0.861,-3.771,0.0529,0.0583,0.106,145.989,0.376,4,181600,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2023-07-29,3,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-07-29,4,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-07-29,5,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-07-29,6,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-07-29,7,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-07-29,8,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-07-29,9,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-07-29,10,All My Life,Lil Durk Featuring J. Cole,0.787,0.57,-5.881,0.225,0.0449,0.135,142.974,0.733,4,223879,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'trap']"
+2023-08-05,1,Try That In A Small Town,Jason Aldean,0.457,0.861,-3.771,0.0529,0.0583,0.106,145.989,0.376,4,181600,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2023-08-05,2,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-08-05,3,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-08-05,4,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-08-05,5,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-08-05,6,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-08-05,7,K-POP,"Travis Scott, Bad Bunny & The Weeknd",0.814,0.618,-5.614,0.0619,0.0386,0.671,121.075,0.535,4,185221,"['rap', 'slap house']"
+2023-08-05,8,Barbie World,Nicki Minaj & Ice Spice With Aqua,0.77,0.58,-8.393,0.247,0.519,0.233,144.072,0.753,4,109750,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2023-08-05,9,Seven,Jung Kook Featuring Latto,0.788,0.841,-3.955,0.0432,0.301,0.0772,124.986,0.904,4,184400,['k-pop']
+2023-08-05,10,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-08-12,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-08-12,2,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-08-12,3,Meltdown,Travis Scott Featuring Drake,0.557,0.774,-5.275,0.351,0.012,0.396,111.975,0.397,4,246134,"['rap', 'slap house']"
+2023-08-12,4,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-08-12,5,FE!N,Travis Scott Featuring Playboi Carti,0.569,0.882,-2.777,0.06,0.0316,0.142,148.038,0.201,4,191701,"['rap', 'slap house']"
+2023-08-12,6,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-08-12,7,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-08-12,8,Barbie World,Nicki Minaj & Ice Spice With Aqua,0.77,0.58,-8.393,0.247,0.519,0.233,144.072,0.753,4,109750,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2023-08-12,9,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-08-12,10,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-08-19,1,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-08-19,2,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-08-19,3,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-08-19,4,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-08-19,5,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-08-19,6,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-08-19,7,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-08-19,8,Barbie World,Nicki Minaj & Ice Spice With Aqua,0.77,0.58,-8.393,0.247,0.519,0.233,144.072,0.753,4,109750,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2023-08-19,9,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2023-08-19,10,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-08-26,1,Rich Men North Of Richmond,Oliver Anthony Music,0.678,0.264,-12.384,0.0622,0.753,0.302,121.722,0.528,4,187244,['modern country pop']
+2023-08-26,2,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-08-26,3,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-08-26,4,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-08-26,5,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-08-26,6,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-08-26,7,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-08-26,8,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-08-26,9,Barbie World,Nicki Minaj & Ice Spice With Aqua,0.77,0.58,-8.393,0.247,0.519,0.233,144.072,0.753,4,109750,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2023-08-26,10,Bad Idea Right?,Olivia Rodrigo,0.631,0.881,-3.545,0.0995,0.00177,0.0639,129.981,0.808,4,184784,['pop']
+2023-09-02,1,Rich Men North Of Richmond,Oliver Anthony Music,0.678,0.264,-12.384,0.0622,0.753,0.302,121.722,0.528,4,187244,['modern country pop']
+2023-09-02,2,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-09-02,3,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-09-02,4,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-09-02,5,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-09-02,6,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-09-02,7,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-09-02,8,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-09-02,9,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-09-02,10,Barbie World,Nicki Minaj & Ice Spice With Aqua,0.77,0.58,-8.393,0.247,0.519,0.233,144.072,0.753,4,109750,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2023-09-09,1,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-09-09,2,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-09-09,3,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-09-09,4,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-09-09,5,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-09-09,6,Rich Men North Of Richmond,Oliver Anthony Music,0.678,0.264,-12.384,0.0622,0.753,0.302,121.722,0.528,4,187244,['modern country pop']
+2023-09-09,7,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-09-09,8,Used To Be Young,Miley Cyrus,0.626,0.63,-3.834,0.0377,0.582,0.13,147.029,0.421,4,191186,['pop']
+2023-09-09,9,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-09-09,10,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-09-16,1,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-09-16,2,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-09-16,3,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-09-16,4,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-09-16,5,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-09-16,6,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-09-16,7,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-09-16,8,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-09-16,9,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-09-16,10,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-09-23,1,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-09-23,2,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-09-23,3,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-09-23,4,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-09-23,5,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-09-23,6,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-09-23,7,Bad Idea Right?,Olivia Rodrigo,0.631,0.881,-3.545,0.0995,0.00177,0.0639,129.981,0.808,4,184784,['pop']
+2023-09-23,8,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-09-23,9,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-09-23,10,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-09-30,1,Slime You Out,Drake Featuring SZA,0.483,0.408,-9.243,0.0502,0.508,0.259,88.88,0.105,3,310491,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-09-30,2,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-09-30,3,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-09-30,4,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-09-30,5,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-09-30,6,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-09-30,7,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-09-30,8,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-09-30,9,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-09-30,10,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-10-07,1,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-10-07,2,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-10-07,3,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-10-07,4,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-10-07,5,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-10-07,6,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-10-07,7,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-10-07,8,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-10-07,9,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-10-07,10,Dance The Night,Dua Lipa,0.671,0.845,-4.93,0.048,0.0207,0.329,110.056,0.775,4,176579,"['dance pop', 'pop', 'uk pop']"
+2023-10-14,1,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-10-14,2,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-10-14,3,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-10-14,4,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-10-14,5,3D,Jung Kook & Jack Harlow,0.853,0.824,-3.287,0.103,0.0322,0.0859,108.044,0.888,4,201812,['k-pop']
+2023-10-14,6,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-10-14,7,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-10-14,8,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-10-14,9,Vampire,Olivia Rodrigo,0.484,0.53,-5.821,0.0538,0.154,0.263,136.848,0.323,4,219724,['pop']
+2023-10-14,10,Calm Down,Rema & Selena Gomez,0.811,0.781,-6.333,0.0428,0.376,0.121,107.007,0.824,4,219813,"['afrobeats', 'nigerian pop']"
+2023-10-21,1,First Person Shooter,Drake Featuring J. Cole,0.475,0.655,-7.342,0.33,0.0306,0.375,163.997,0.245,4,247444,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-21,2,IDGAF,Drake Featuring Yeat,0.673,0.672,-8.577,0.224,0.0466,0.193,136.902,0.14,4,260111,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-21,3,Virginia Beach,Drake,0.402,0.514,-7.322,0.0471,0.106,0.181,120.009,0.2,4,251095,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-21,4,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-10-21,5,Calling For You,Drake Featuring 21 Savage,0.571,0.55,-6.567,0.106,0.0548,0.179,120.947,0.104,4,285630,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-21,6,Slime You Out,Drake Featuring SZA,0.483,0.408,-9.243,0.0502,0.508,0.259,88.88,0.105,3,310491,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-21,7,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-10-21,8,Daylight,Drake,0.566,0.564,-7.88,0.277,0.0149,0.104,139.92,0.0667,4,164143,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-21,9,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-10-21,10,Fear Of Heights,Drake,0.697,0.32,-9.347,0.214,0.0127,0.18,136.976,0.0658,4,155154,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-28,1,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-10-28,2,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-10-28,3,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-10-28,4,IDGAF,Drake Featuring Yeat,0.673,0.672,-8.577,0.224,0.0466,0.193,136.902,0.14,4,260111,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-28,5,Monaco,Bad Bunny,0.533,0.225,-27.771,0.0379,0.00128,0.11,124.99,0.301,4,222067,[]
+2023-10-28,6,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-10-28,7,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-10-28,8,First Person Shooter,Drake Featuring J. Cole,0.475,0.655,-7.342,0.33,0.0306,0.375,163.997,0.245,4,247444,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-10-28,9,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-10-28,10,Thinkin' Bout Me,Morgan Wallen,0.659,0.789,-5.723,0.0293,0.487,0.115,139.982,0.468,4,177388,['contemporary country']
+2023-11-04,1,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-11-04,2,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-11-04,3,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-11-04,4,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-11-04,5,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-11-04,6,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-11-04,7,Thinkin' Bout Me,Morgan Wallen,0.659,0.789,-5.723,0.0293,0.487,0.115,139.982,0.468,4,177388,['contemporary country']
+2023-11-04,8,IDGAF,Drake Featuring Yeat,0.673,0.672,-8.577,0.224,0.0466,0.193,136.902,0.14,4,260111,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2023-11-04,9,Monaco,Bad Bunny,0.533,0.225,-27.771,0.0379,0.00128,0.11,124.99,0.301,4,222067,[]
+2023-11-04,10,Fukumean,Gunna,0.847,0.622,-6.747,0.0903,0.119,0.285,130.001,0.22,4,125040,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2023-11-11,1,Is It Over Now? (Taylor's Version) [From The Vault],Taylor Swift,0.599,0.651,-7.343,0.035,0.0486,0.126,100.001,0.153,4,229478,['pop']
+2023-11-11,2,Now That We Don't Talk (Taylor's Version) [From The Vault],Taylor Swift,0.8,0.509,-9.386,0.034,0.16,0.0834,109.994,0.0768,4,146437,['pop']
+2023-11-11,3,Slut! (Taylor's Version) [From The Vault],Taylor Swift,0.621,0.415,-13.187,0.0543,0.33,0.0634,77.978,0.313,4,180381,['pop']
+2023-11-11,4,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-11-11,5,Say Don't Go (Taylor's Version) [From The Vault],Taylor Swift,0.632,0.539,-8.375,0.0342,0.0684,0.132,109.962,0.186,4,279833,['pop']
+2023-11-11,6,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-11-11,7,Bad Blood (Taylor's Version),Taylor Swift,0.624,0.711,-6.347,0.159,0.0369,0.19,169.999,0.347,4,211104,['pop']
+2023-11-11,8,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-11-11,9,Style (Taylor's Version),Taylor Swift,0.514,0.821,-4.803,0.0444,0.000456,0.0946,94.884,0.298,4,231000,['pop']
+2023-11-11,10,Suburban Legends (Taylor's Version) [From The Vault],Taylor Swift,0.695,0.607,-8.84,0.0357,0.212,0.102,118.043,0.394,4,171819,['pop']
+2023-11-18,1,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-11-18,2,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-11-18,3,Is It Over Now? (Taylor's Version) [From The Vault],Taylor Swift,0.599,0.651,-7.343,0.035,0.0486,0.126,100.001,0.153,4,229478,['pop']
+2023-11-18,4,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-11-18,5,Standing Next To You,Jung Kook,0.711,0.809,-4.389,0.0955,0.0447,0.339,106.017,0.816,4,206020,['k-pop']
+2023-11-18,6,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-11-18,7,Now And Then,The Beatles,0.447,0.605,-4.71,0.0291,0.227,0.315,87.191,0.307,4,248333,"['british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']"
+2023-11-18,8,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-11-18,9,Thinkin' Bout Me,Morgan Wallen,0.659,0.789,-5.723,0.0293,0.487,0.115,139.982,0.468,4,177388,['contemporary country']
+2023-11-18,10,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-11-25,1,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-11-25,2,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2023-11-25,3,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-11-25,4,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-11-25,5,Is It Over Now? (Taylor's Version) [From The Vault],Taylor Swift,0.599,0.651,-7.343,0.035,0.0486,0.126,100.001,0.153,4,229478,['pop']
+2023-11-25,6,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-11-25,7,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2023-11-25,8,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2023-11-25,9,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2023-11-25,10,Thinkin' Bout Me,Morgan Wallen,0.659,0.789,-5.723,0.0293,0.487,0.115,139.982,0.468,4,177388,['contemporary country']
+2023-12-02,1,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2023-12-02,2,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-12-02,3,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-12-02,4,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2023-12-02,5,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-12-02,6,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2023-12-02,7,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2023-12-02,8,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2023-12-02,9,Is It Over Now? (Taylor's Version) [From The Vault],Taylor Swift,0.599,0.651,-7.343,0.035,0.0486,0.126,100.001,0.153,4,229478,['pop']
+2023-12-02,10,Water,Tyla,0.673,0.722,-3.495,0.0755,0.0856,0.137,117.187,0.519,4,200256,[]
+2023-12-09,1,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2023-12-09,2,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2023-12-09,3,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2023-12-09,4,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2023-12-09,5,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2023-12-09,6,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2023-12-09,7,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-12-09,8,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-12-09,9,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-12-09,10,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2023-12-16,1,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2023-12-16,2,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2023-12-16,3,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2023-12-16,4,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2023-12-16,5,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2023-12-16,6,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2023-12-16,7,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2023-12-16,8,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2023-12-16,9,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2023-12-16,10,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2023-12-23,1,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2023-12-23,2,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2023-12-23,3,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2023-12-23,4,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2023-12-23,5,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2023-12-23,6,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2023-12-23,7,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2023-12-23,8,Sleigh Ride,The Ronettes,0.529,0.772,-7.013,0.0287,0.403,0.316,91.751,0.853,4,181267,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']"
+2023-12-23,9,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2023-12-23,10,"Let It Snow, Let It Snow, Let It Snow!",Dean Martin,0.451,0.241,-14.014,0.0352,0.912,0.175,134.009,0.698,4,117147,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+2023-12-30,1,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2023-12-30,2,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2023-12-30,3,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2023-12-30,4,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2023-12-30,5,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2023-12-30,6,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2023-12-30,7,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2023-12-30,8,"Let It Snow, Let It Snow, Let It Snow!",Dean Martin,0.451,0.241,-14.014,0.0352,0.912,0.175,134.009,0.698,4,117147,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+2023-12-30,9,Feliz Navidad,Jose Feliciano,0.513,0.831,-9.004,0.0383,0.55,0.336,148.837,0.963,4,182067,"['latin pop', 'puerto rican pop']"
+2023-12-30,10,Sleigh Ride,The Ronettes,0.529,0.772,-7.013,0.0287,0.403,0.316,91.751,0.853,4,181267,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']"
+2024-01-06,1,Rockin' Around The Christmas Tree,Brenda Lee,0.598,0.47,-8.744,0.0496,0.617,0.505,67.086,0.879,4,126267,"['adult standards', 'lounge', 'rockabilly']"
+2024-01-06,2,All I Want For Christmas Is You,Mariah Carey,0.336,0.627,-7.463,0.0384,0.164,0.0708,150.273,0.35,4,241107,"['dance pop', 'pop', 'urban contemporary']"
+2024-01-06,3,Jingle Bell Rock,Bobby Helms,0.754,0.424,-8.463,0.0363,0.643,0.0652,119.705,0.806,4,130973,[]
+2024-01-06,4,Last Christmas,Wham!,0.735,0.478,-12.472,0.0293,0.189,0.355,107.682,0.947,4,262960,"['new romantic', 'new wave', 'new wave pop', 'soft rock']"
+2024-01-06,5,A Holly Jolly Christmas,Burl Ives,0.682,0.375,-13.056,0.0303,0.579,0.076,140.453,0.888,4,135533,"['adult standards', 'american folk revival']"
+2024-01-06,6,It's The Most Wonderful Time Of The Year,Andy Williams,0.24,0.598,-8.435,0.0369,0.766,0.117,201.629,0.776,3,151933,"['adult standards', 'easy listening']"
+2024-01-06,7,"Let It Snow, Let It Snow, Let It Snow!",Dean Martin,0.451,0.241,-14.014,0.0352,0.912,0.175,134.009,0.698,4,117147,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+2024-01-06,8,Feliz Navidad,Jose Feliciano,0.513,0.831,-9.004,0.0383,0.55,0.336,148.837,0.963,4,182067,"['latin pop', 'puerto rican pop']"
+2024-01-06,9,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-01-06,10,Sleigh Ride,The Ronettes,0.529,0.772,-7.013,0.0287,0.403,0.316,91.751,0.853,4,181267,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']"
+2024-01-13,1,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-01-13,2,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-01-13,3,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-01-13,4,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2024-01-13,5,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-01-13,6,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-01-13,7,Water,Tyla,0.673,0.722,-3.495,0.0755,0.0856,0.137,117.187,0.519,4,200256,[]
+2024-01-13,8,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2024-01-13,9,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2024-01-13,10,Agora Hills,Doja Cat,0.75,0.674,-6.128,0.097,0.228,0.122,123.026,0.392,4,265360,"['dance pop', 'pop']"
+2024-01-20,1,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-01-20,2,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-01-20,3,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-01-20,4,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-01-20,5,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2024-01-20,6,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-01-20,7,Water,Tyla,0.673,0.722,-3.495,0.0755,0.0856,0.137,117.187,0.519,4,200256,[]
+2024-01-20,8,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-01-20,9,Agora Hills,Doja Cat,0.75,0.674,-6.128,0.097,0.228,0.122,123.026,0.392,4,265360,"['dance pop', 'pop']"
+2024-01-20,10,Last Night,Morgan Wallen,0.492,0.673,-5.431,0.0347,0.413,0.137,203.812,0.488,4,163855,['contemporary country']
+2024-01-27,1,"Yes, And?",Ariana Grande,0.787,0.775,-6.614,0.0548,0.19,0.113,118.998,0.787,4,214994,['pop']
+2024-01-27,2,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-01-27,3,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-01-27,4,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-01-27,5,Redrum,21 Savage,0.625,0.733,-8.757,0.0488,0.00598,0.375,172.09,0.244,4,270698,"['atl hip hop', 'hip hop', 'rap']"
+2024-01-27,6,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-01-27,7,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2024-01-27,8,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-01-27,9,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-01-27,10,Nee-nah,"21 Savage, Travis Scott & Metro Boomin",0.681,0.758,-6.524,0.188,0.00465,0.555,165.409,0.331,4,220584,"['atl hip hop', 'hip hop', 'rap']"
+2024-02-03,1,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-02-03,2,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-02-03,3,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-02-03,4,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-02-03,5,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-02-03,6,"Yes, And?",Ariana Grande,0.787,0.775,-6.614,0.0548,0.19,0.113,118.998,0.787,4,214994,['pop']
+2024-02-03,7,Agora Hills,Doja Cat,0.75,0.674,-6.128,0.097,0.228,0.122,123.026,0.392,4,265360,"['dance pop', 'pop']"
+2024-02-03,8,Paint The Town Red,Doja Cat,0.868,0.538,-8.603,0.174,0.269,0.0901,99.968,0.732,4,231750,"['dance pop', 'pop']"
+2024-02-03,9,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-02-03,10,Redrum,21 Savage,0.625,0.733,-8.757,0.0488,0.00598,0.375,172.09,0.244,4,270698,"['atl hip hop', 'hip hop', 'rap']"
+2024-02-10,1,Hiss,Megan Thee Stallion,0.745,0.663,-5.056,0.423,0.078,0.213,167.137,0.686,4,192819,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2024-02-10,2,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-02-10,3,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-02-10,4,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-02-10,5,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-02-10,6,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-02-10,7,Agora Hills,Doja Cat,0.75,0.674,-6.128,0.097,0.228,0.122,123.026,0.392,4,265360,"['dance pop', 'pop']"
+2024-02-10,8,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-02-10,9,Redrum,21 Savage,0.625,0.733,-8.757,0.0488,0.00598,0.375,172.09,0.244,4,270698,"['atl hip hop', 'hip hop', 'rap']"
+2024-02-10,10,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-02-17,1,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-02-17,2,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-02-17,3,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-02-17,4,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-02-17,5,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-02-17,6,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-02-17,7,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-02-17,8,Fast Car,Luke Combs,0.712,0.603,-5.52,0.0262,0.186,0.115,97.994,0.67,4,265493,"['contemporary country', 'country']"
+2024-02-17,9,Agora Hills,Doja Cat,0.75,0.674,-6.128,0.097,0.228,0.122,123.026,0.392,4,265360,"['dance pop', 'pop']"
+2024-02-17,10,Flowers,Miley Cyrus,0.706,0.691,-4.775,0.0633,0.0584,0.0232,118.048,0.632,4,200600,['pop']
+2024-02-24,1,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-02-24,2,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-02-24,3,Carnival,¥$: Kanye West & Ty Dolla $ign,0.594,0.811,-5.746,0.159,0.189,0.339,148.144,0.311,4,264324,[]
+2024-02-24,4,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-02-24,5,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-02-24,6,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-02-24,7,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-02-24,8,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-02-24,9,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-02-24,10,Stick Season,Noah Kahan,0.664,0.5,-6.935,0.0651,0.799,0.0966,117.896,0.801,4,182347,['pov: indie']
+2024-03-02,1,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-03-02,2,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-03-02,3,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-03-02,4,Carnival,¥$: Kanye West & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti,0.594,0.811,-5.746,0.159,0.189,0.339,148.144,0.311,4,264324,[]
+2024-03-02,5,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-03-02,6,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-03-02,7,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-03-02,8,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-03-02,9,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-03-02,10,Agora Hills,Doja Cat,0.75,0.674,-6.128,0.097,0.228,0.122,123.026,0.392,4,265360,"['dance pop', 'pop']"
+2024-03-09,1,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-03-09,2,Carnival,¥$: Kanye West & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti,0.594,0.811,-5.746,0.159,0.189,0.339,148.144,0.311,4,264324,[]
+2024-03-09,3,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-03-09,4,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-03-09,5,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-03-09,6,Saturn,SZA,0.411,0.619,-6.834,0.0368,0.62,0.11,177.937,0.337,4,186192,"['pop', 'r&b', 'rap']"
+2024-03-09,7,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-03-09,8,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-03-09,9,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-03-09,10,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-03-16,1,Carnival,¥$: Kanye West & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti,0.594,0.811,-5.746,0.159,0.189,0.339,148.144,0.311,4,264324,[]
+2024-03-16,2,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-03-16,3,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-03-16,4,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-03-16,5,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-03-16,6,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-03-16,7,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-03-16,8,Snooze,SZA,0.559,0.551,-7.231,0.132,0.141,0.11,143.008,0.392,4,201800,"['pop', 'r&b', 'rap']"
+2024-03-16,9,Agora Hills,Doja Cat,0.75,0.674,-6.128,0.097,0.228,0.122,123.026,0.392,4,265360,"['dance pop', 'pop']"
+2024-03-16,10,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-03-23,1,We Can't Be Friends (Wait For Your Love),Ariana Grande,0.582,0.285,-8.632,0.0352,0.855,0.0797,115.857,0.362,4,222442,['pop']
+2024-03-23,2,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-03-23,3,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-03-23,4,Carnival,¥$: Ye & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti,0.594,0.811,-5.746,0.159,0.189,0.339,148.144,0.311,4,264324,[]
+2024-03-23,5,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-03-23,6,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-03-23,7,Act II: Date @ 8,4Batz Featuring Drake,0.55,0.545,-9.304,0.163,0.318,0.0608,102.469,0.412,4,231339,[]
+2024-03-23,8,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-03-23,9,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-03-23,10,"Yes, And?",Ariana Grande,0.787,0.775,-6.614,0.0548,0.19,0.113,118.998,0.787,4,214994,['pop']
+2024-03-30,1,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-03-30,2,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-03-30,3,We Can't Be Friends (Wait For Your Love),Ariana Grande,0.582,0.285,-8.632,0.0352,0.855,0.0797,115.857,0.362,4,222442,['pop']
+2024-03-30,4,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-03-30,5,Carnival,¥$: Ye & Ty Dolla $ign Featuring Rich The Kid & Playboi Carti,0.594,0.811,-5.746,0.159,0.189,0.339,148.144,0.311,4,264324,[]
+2024-03-30,6,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-03-30,7,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,0.429,0.453,-7.746,0.0459,0.554,0.102,77.639,0.155,4,227196,['classic oklahoma country']
+2024-03-30,8,Greedy,Tate McRae,0.749,0.729,-3.19,0.0321,0.261,0.113,111.004,0.816,1,131872,['pop']
+2024-03-30,9,Enough (Miami),Cardi B,0.926,0.791,-4.553,0.273,0.00255,0.0772,139.166,0.473,5,158727,"['pop', 'rap']"
+2024-03-30,10,Cruel Summer,Taylor Swift,0.552,0.702,-5.707,0.157,0.117,0.105,169.994,0.564,4,178427,['pop']
+2024-04-06,1,Like That,"Future, Metro Boomin & Kendrick Lamar",0.814,0.676,-4.67,0.231,0.00709,0.119,162.012,0.312,4,267707,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-06,2,Type Shit,"Future, Metro Boomin, Travis Scott & Playboi Carti",0.64,0.552,-5.679,0.129,0.0215,0.119,144.941,0.112,4,228267,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-06,3,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-04-06,4,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-04-06,5,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-04-06,6,Cinderella,"Future, Metro Boomin & Travis Scott",0.876,0.412,-7.74,0.0748,0.431,0.101,130.052,0.15,4,169840,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-06,7,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-04-06,8,We Don't Trust You,Future & Metro Boomin,0.779,0.508,-7.169,0.271,0.478,0.243,124.091,0.346,4,226213,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-06,9,Young Metro,"Future, Metro Boomin & The Weeknd",0.716,0.664,-7.297,0.0571,0.11,0.11,112.054,0.209,4,205347,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-06,10,We Can't Be Friends (Wait For Your Love),Ariana Grande,0.582,0.285,-8.632,0.0352,0.855,0.0797,115.857,0.362,4,222442,['pop']
+2024-04-13,1,Like That,"Future, Metro Boomin & Kendrick Lamar",0.814,0.676,-4.67,0.231,0.00709,0.119,162.012,0.312,4,267707,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-13,2,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-04-13,3,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-04-13,4,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-04-13,5,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-04-13,6,II Most Wanted,Beyonce & Miley Cyrus,0.533,0.355,-6.132,0.0289,0.497,0.174,137.986,0.256,4,208521,"['pop', 'r&b']"
+2024-04-13,7,Jolene,Beyonce,0.567,0.812,-5.434,0.164,0.532,0.73,106.179,0.853,4,189639,"['pop', 'r&b']"
+2024-04-13,8,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-04-13,9,We Can't Be Friends (Wait For Your Love),Ariana Grande,0.582,0.285,-8.632,0.0352,0.855,0.0797,115.857,0.362,4,222442,['pop']
+2024-04-13,10,Type Shit,"Future, Metro Boomin, Travis Scott & Playboi Carti",0.64,0.552,-5.679,0.129,0.0215,0.119,144.941,0.112,4,228267,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-20,1,Like That,"Future, Metro Boomin & Kendrick Lamar",0.814,0.676,-4.67,0.231,0.00709,0.119,162.012,0.312,4,267707,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-20,2,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-04-20,3,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-04-20,4,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-04-20,5,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-04-20,6,7 Minute Drill,J. Cole,0.488,0.673,-11.262,0.176,0.109,0.28,163.987,0.188,4,206601,[]
+2024-04-20,7,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-04-20,8,We Can't Be Friends (Wait For Your Love),Ariana Grande,0.582,0.285,-8.632,0.0352,0.855,0.0797,115.857,0.362,4,222442,['pop']
+2024-04-20,9,Type Shit,"Future, Metro Boomin, Travis Scott & Playboi Carti",0.64,0.552,-5.679,0.129,0.0215,0.119,144.941,0.112,4,228267,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-20,10,Stick Season,Noah Kahan,0.664,0.5,-6.935,0.0651,0.799,0.0966,117.896,0.801,4,182347,['pov: indie']
+2024-04-27,1,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-04-27,2,Like That,"Future, Metro Boomin & Kendrick Lamar",0.814,0.676,-4.67,0.231,0.00709,0.119,162.012,0.312,4,267707,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-04-27,3,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-04-27,4,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-04-27,5,Texas Hold 'Em,Beyonce,0.727,0.711,-6.549,0.078,0.582,0.158,110.012,0.375,4,233457,"['pop', 'r&b']"
+2024-04-27,6,Lovin On Me,Jack Harlow,0.943,0.558,-4.911,0.0568,0.0026,0.0937,104.983,0.606,4,138411,"['deep underground hip hop', 'hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2024-04-27,7,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-04-27,8,We Can't Be Friends (Wait For Your Love),Ariana Grande,0.582,0.285,-8.632,0.0352,0.855,0.0797,115.857,0.362,4,222442,['pop']
+2024-04-27,9,Stick Season,Noah Kahan,0.664,0.5,-6.935,0.0651,0.799,0.0966,117.896,0.801,4,182347,['pov: indie']
+2024-04-27,10,Saturn,SZA,0.411,0.619,-6.834,0.0368,0.62,0.11,177.937,0.337,4,186192,"['pop', 'r&b', 'rap']"
+2024-05-04,1,Fortnight,Taylor Swift Featuring Post Malone,0.504,0.386,-10.976,0.0308,0.502,0.0961,192.004,0.281,4,228965,['pop']
+2024-05-04,2,Down Bad,Taylor Swift,0.541,0.366,-10.412,0.0748,0.56,0.0946,159.707,0.168,4,261228,['pop']
+2024-05-04,3,I Can Do It With A Broken Heart,Taylor Swift,0.701,0.751,-8.39,0.0502,0.123,0.15,129.994,0.22,4,218005,['pop']
+2024-05-04,4,The Tortured Poets Department,Taylor Swift,0.604,0.428,-8.441,0.0255,0.0483,0.126,110.259,0.292,4,293048,['pop']
+2024-05-04,5,"So Long, London",Taylor Swift,0.423,0.533,-11.388,0.322,0.73,0.0816,160.218,0.248,4,262975,['pop']
+2024-05-04,6,My Boy Only Breaks His Favorite Toys,Taylor Swift,0.596,0.563,-7.362,0.0269,0.137,0.302,97.073,0.481,4,203801,['pop']
+2024-05-04,7,But Daddy I Love Him,Taylor Swift,0.521,0.72,-7.684,0.104,0.384,0.135,79.943,0.438,4,340428,['pop']
+2024-05-04,8,Florida!!!,Taylor Swift Featuring Florence + The Machine,0.533,0.573,-7.123,0.138,0.178,0.309,150.088,0.398,4,215463,['pop']
+2024-05-04,9,Who's Afraid Of Little Old Me?,Taylor Swift,0.606,0.338,-10.555,0.048,0.315,0.106,119.88,0.238,4,334085,['pop']
+2024-05-04,10,Guilty As Sin?,Taylor Swift,0.626,0.428,-8.374,0.0261,0.607,0.0921,94.95,0.487,3,254366,['pop']
+2024-05-11,1,Fortnight,Taylor Swift Featuring Post Malone,0.504,0.386,-10.976,0.0308,0.502,0.0961,192.004,0.281,4,228965,['pop']
+2024-05-11,2,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-05-11,3,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-05-11,4,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-05-11,5,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-05-11,6,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-05-11,7,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-05-11,8,Like That,"Future, Metro Boomin & Kendrick Lamar",0.814,0.676,-4.67,0.231,0.00709,0.119,162.012,0.312,4,267707,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-05-11,9,I Can Do It With A Broken Heart,Taylor Swift,0.701,0.751,-8.39,0.0502,0.123,0.15,129.994,0.22,4,218005,['pop']
+2024-05-11,10,Down Bad,Taylor Swift,0.541,0.366,-10.412,0.0748,0.56,0.0946,159.707,0.168,4,261228,['pop']
+2024-05-18,1,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-05-18,2,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-05-18,3,Euphoria,Kendrick Lamar,0.831,0.643,-5.002,0.11,0.046,0.084,139.948,0.142,4,383639,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-05-18,4,Fortnight,Taylor Swift Featuring Post Malone,0.504,0.386,-10.976,0.0308,0.502,0.0961,192.004,0.281,4,228965,['pop']
+2024-05-18,5,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-05-18,6,Like That,"Future, Metro Boomin & Kendrick Lamar",0.814,0.676,-4.67,0.231,0.00709,0.119,162.012,0.312,4,267707,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-05-18,7,Family Matters,Drake,0.527,0.492,-9.774,0.279,0.0047,0.306,164.005,0.234,4,456934,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2024-05-18,8,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-05-18,9,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-05-18,10,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-05-25,1,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-05-25,2,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-05-25,3,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-05-25,4,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-05-25,5,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-05-25,6,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-05-25,7,Like That,"Future, Metro Boomin & Kendrick Lamar",0.814,0.676,-4.67,0.231,0.00709,0.119,162.012,0.312,4,267707,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2024-05-25,8,Fortnight,Taylor Swift Featuring Post Malone,0.504,0.386,-10.976,0.0308,0.502,0.0961,192.004,0.281,4,228965,['pop']
+2024-05-25,9,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-05-25,10,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-06-01,1,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-06-01,2,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-06-01,3,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-06-01,4,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-06-01,5,Lunch,Billie Eilish,0.893,0.4,-7.981,0.0643,0.0452,0.0632,124.987,0.945,4,179587,"['art pop', 'pop']"
+2024-06-01,6,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-06-01,7,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-06-01,8,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-06-01,9,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-06-01,10,Fortnight,Taylor Swift Featuring Post Malone,0.504,0.386,-10.976,0.0308,0.502,0.0961,192.004,0.281,4,228965,['pop']
+2024-06-08,1,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-06-08,2,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-06-08,3,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-06-08,4,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-06-08,5,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-06-08,6,Pink Skies,Zach Bryan,0.525,0.488,-6.909,0.038,0.191,0.135,84.999,0.253,4,194920,['classic oklahoma country']
+2024-06-08,7,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-06-08,8,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-06-08,9,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-06-08,10,Lunch,Billie Eilish,0.893,0.4,-7.981,0.0643,0.0452,0.0632,124.987,0.945,4,179587,"['art pop', 'pop']"
+2024-06-15,1,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-06-15,2,Houdini,Eminem,0.936,0.887,-2.76,0.0683,0.0292,0.0582,127.003,0.889,4,227239,"['detroit hip hop', 'hip hop', 'rap']"
+2024-06-15,3,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-06-15,4,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-06-15,5,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-06-15,6,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-06-15,7,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-06-15,8,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-06-15,9,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-06-15,10,Pink Skies,Zach Bryan,0.525,0.488,-6.909,0.038,0.191,0.135,84.999,0.253,4,194920,['classic oklahoma country']
+2024-06-22,1,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-06-22,2,Please Please Please,Sabrina Carpenter,0.669,0.586,-6.073,0.054,0.274,0.104,107.071,0.579,4,186365,['pop']
+2024-06-22,3,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-06-22,4,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-06-22,5,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-06-22,6,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-06-22,7,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-06-22,8,Houdini,Eminem,0.936,0.887,-2.76,0.0683,0.0292,0.0582,127.003,0.889,4,227239,"['detroit hip hop', 'hip hop', 'rap']"
+2024-06-22,9,Birds Of A Feather,Billie Eilish,0.747,0.507,-10.171,0.0358,0.2,0.117,104.978,0.438,4,210373,"['art pop', 'pop']"
+2024-06-22,10,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-06-29,1,Please Please Please,Sabrina Carpenter,0.669,0.586,-6.073,0.054,0.274,0.104,107.071,0.579,4,186365,['pop']
+2024-06-29,2,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-06-29,3,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-06-29,4,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-06-29,5,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-06-29,6,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-06-29,7,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-06-29,8,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-06-29,9,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-06-29,10,Birds Of A Feather,Billie Eilish,0.747,0.507,-10.171,0.0358,0.2,0.117,104.978,0.438,4,210373,"['art pop', 'pop']"
+2024-07-06,1,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-07-06,2,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-07-06,3,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-07-06,4,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-07-06,5,Please Please Please,Sabrina Carpenter,0.669,0.586,-6.073,0.054,0.274,0.104,107.071,0.579,4,186365,['pop']
+2024-07-06,6,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-07-06,7,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-07-06,8,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-07-06,9,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-07-06,10,Birds Of A Feather,Billie Eilish,0.747,0.507,-10.171,0.0358,0.2,0.117,104.978,0.438,4,210373,"['art pop', 'pop']"
+2024-07-13,1,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-07-13,2,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-07-13,3,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-07-13,4,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-07-13,5,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-07-13,6,Please Please Please,Sabrina Carpenter,0.669,0.586,-6.073,0.054,0.274,0.104,107.071,0.579,4,186365,['pop']
+2024-07-13,7,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-07-13,8,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-07-13,9,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-07-13,10,"Good Luck, Babe!",Chappell Roan,0.7,0.582,-5.96,0.0356,0.0502,0.0881,116.712,0.785,4,218424,"['indie pop', 'pov: indie']"
+2024-07-20,1,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-07-20,2,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-07-20,3,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-07-20,4,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-07-20,5,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-07-20,6,Please Please Please,Sabrina Carpenter,0.669,0.586,-6.073,0.054,0.274,0.104,107.071,0.579,4,186365,['pop']
+2024-07-20,7,Lies Lies Lies,Morgan Wallen,0.486,0.702,-5.758,0.0298,0.239,0.0912,81.053,0.382,4,198069,['contemporary country']
+2024-07-20,8,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-07-20,9,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-07-20,10,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-07-27,1,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-07-27,2,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-07-27,3,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-07-27,4,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-07-27,5,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-07-27,6,Please Please Please,Sabrina Carpenter,0.669,0.586,-6.073,0.054,0.274,0.104,107.071,0.579,4,186365,['pop']
+2024-07-27,7,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-07-27,8,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-07-27,9,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-07-27,10,Houdini,Eminem,0.936,0.887,-2.76,0.0683,0.0292,0.0582,127.003,0.889,4,227239,"['detroit hip hop', 'hip hop', 'rap']"
+2024-08-03,1,A Bar Song (Tipsy),Shaboozey,0.722,0.709,-4.95,0.0273,0.0633,0.0804,81.012,0.604,4,171292,['pop rap']
+2024-08-03,2,I Had Some Help,Post Malone Featuring Morgan Wallen,0.638,0.855,-4.86,0.0264,0.00757,0.245,127.986,0.731,4,178206,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2024-08-03,3,Not Like Us,Kendrick Lamar,0.898,0.472,-7.001,0.0776,0.0107,0.141,101.061,0.214,4,274192,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2024-08-03,4,Million Dollar Baby,Tommy Richman,0.852,0.697,-5.52,0.0439,0.0973,0.0678,138.029,0.919,4,155152,['chill abstract hip hop']
+2024-08-03,5,Espresso,Sabrina Carpenter,0.701,0.76,-5.478,0.0285,0.107,0.185,103.969,0.69,4,175459,['pop']
+2024-08-03,6,Too Sweet,Hozier,0.741,0.62,-5.505,0.0412,0.0295,0.0398,117.038,0.934,4,251424,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
+2024-08-03,7,Please Please Please,Sabrina Carpenter,0.669,0.586,-6.073,0.054,0.274,0.104,107.071,0.579,4,186365,['pop']
+2024-08-03,8,Lose Control,Teddy Swims,0.561,0.604,-4.409,0.0337,0.199,0.104,159.92,0.242,3,210689,[]
+2024-08-03,9,Beautiful Things,Benson Boone,0.472,0.471,-5.692,0.0603,0.151,0.14,105.029,0.219,3,180304,['singer-songwriter pop']
+2024-08-03,10,"Good Luck, Babe!",Chappell Roan,0.7,0.582,-5.96,0.0356,0.0502,0.0881,116.712,0.785,4,218424,"['indie pop', 'pov: indie']"
