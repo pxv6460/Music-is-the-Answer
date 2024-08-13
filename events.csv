@@ -2,6 +2,8 @@ Date,Event,Category
 2022-01-27,The Northeast experiences a major blizzard which stretches from Delaware to Nova Scotia.,Weather
 2022-02-01,"February 2022 North American winter storm: A major winter storm, known colloquially as Winter Storm Landon or the Groundhog Snowstorm, affects much of the eastern and Midwest from Texas to Maine, with Alabama receiving concurrent tornadoes as well.",Weather
 2022-02-03,"The share price of Meta falls by 26.4%, with Facebook losing $230bn in its market value, the biggest one-day loss in history for a US company. This follows an earnings report showing the company's first ever drop in daily user numbers.",Economic
+2022-02-24,Russian invasion of Ukraine,National Security
+2022-02-24,"The Dow Jones, Nasdaq, and S&P 500 fall sharply in response to Russia's full-scale invasion of Ukraine. Oil prices exceed $100 a barrel for the first time since 2014.",Economic
 2022-02-24,"President Biden announces new, stronger sanctions that will 'impose severe cost on the Russian economy, both immediately and over time.' He condemns President Vladimir Putin's invasion of Ukraine, calling him an 'aggressor'.",Political
 2022-02-26,President Biden signs an order to provide $600 million of military assistance to Ukraine.,Political
 2022-03-11,"According to the CDC, United States declared the end of COVID-19 pandemic after two years of serious outbreak, for example: lifted all restrictions up and then the country's transition to the endemic phase from Deltacron hybrid variant.",Health
@@ -25,7 +27,9 @@ Date,Event,Category
 2022-07-19,"The House passes the Respect for Marriage Act, which federally protects discrimination against LGBT individuals in what is widely seen as a defensive measure against Supreme Court justice Clarence Thomas questioning the legitimacy of Obergefell v. Hodges in his concurring opinion to Dobbs v. Jackson. Forty-seven Republicans joined the unanimous Democrat caucus.",Political
 2022-07-21,"The House votes to codify federal access to contraception, with eight Republicans supporting the measure.",Political
 2022-07-22,Steve Bannon is found guilty of contempt of Congress after defying subpoenas by the January 6 committee. The guilty verdict is the first successfully prosecuted case of contempt of Congress since the Watergate scandal.,Political
+2022-07-24,Newsom declares a state of emergency over the Oak Fire in Yosemite National Park.,Environmental
 2022-07-24,The July–August 2022 United States floods begin.,Environmental
+2022-07-27,"The Senate passes the bipartisan CHIPS and Science Act by a vote of 64–33, which allocates $280 billion in funding for scientific development and increasing the nation's competitive ability against mainland China. Notably, $52 billion would go towards the development of integrated circuits and semiconductor fabrication plants.",Political
 2022-07-27,"The Federal Reserve raises interest rates by 0.75% for the second time in a row, in an attempt to combat a historic inflation surge. The Dow Jones, S&P, and Nasdaq Composite all close higher this day.",Economic
 2022-08-01,"2022 monkeypox outbreak: California and Illinois declare a state of emergency over the monkeypox outbreak, following New York the previous week.",Health
 2022-08-02,"Taiwan–United States relations – House Speaker Nancy Pelosi becomes the highest-ranking U.S. official in the last 25 years to visit Taiwan, despite warnings from both China and Biden of rising tensions.",Political
@@ -54,6 +58,7 @@ Date,Event,Category
 2023-01-11,"FAA system outage: For the first time since 9/11, the Federal Aviation Administration issues a nationwide ground stop following the failure of the FAA's NOTAM system.",Transportation
 2023-01-21,"A mass shooting occurs at a dance studio in Monterey Park, California, after a Lunar New Year celebration. Eleven people are killed, and nine more are injured; the perpetrator commits suicide the following day.",Violence
 2023-01-31,A massive ice storm over the Southern United States kills 10 people.,Weather
+2023-02-01,"Joe Biden classified documents incident: The FBI conducts a planned search of President Biden's home in Rehoboth Beach, Delaware.",Political
 2023-02-01,The Federal Reserve raises interest rates by 0.25 percent from 4.5 percent to 4.75 percent.,Economic
 2023-02-04,The suspected Chinese spy balloon is shot down by a missile off the coast of South Carolina.,Military
 2023-02-07,President Biden gives his second official State of the Union Address to Congress.,Political
@@ -75,7 +80,9 @@ Date,Event,Category
 2023-06-06,Wildfires in Quebec cause the air quality to deteriorate in the Northeast and part of the Midwest. Millions of Americans and Canadians are advised to wear N95 masks.,Environmental
 2023-06-18,"An underwater submersible called Titan goes missing during a dive to visit the wreck site of the RMS Titanic with five people aboard. Four days later, a portion of the hull is discovered as a part of an American search-and-rescue operation, confirming the loss of the vessel as well as all five passengers on board.",Accident
 2023-06-20,A series of tornado outbreaks across the United States kills eight people and injures over 126 others. This included a historic tornado outbreak on June 21 in Colorado.,Weather
+2023-06-27,The Supreme Court rules in a 6–3 decision against the implementation of the independent state legislature theory.,Judicial
 2023-06-27,The Supreme Court rules in a 7–2 decision that prosecutors must prove true threats be either reckless or made with subjective intention in order to convict.,Judicial
+2023-06-30,The Supreme Court rules in a 6–3 decision that the HEROES Act does not grant the president the right to forgive student debts.,Judicial
 2023-06-30,The Supreme Court rules in a 6–3 decision that the First Amendment prohibits states from forcing website designers to create designs they disagree with. The decision is seen as a victory for religious conservatives and free speech advocates but a setback for LGBT+ rights.,Judicial
 2023-07-06,Treasury Secretary Janet Yellen visits Beijing with the intent to reduce tensions in Chinese American relations.,Diplomacy
 2023-07-09,A series of destructive floods strike the Northeast after a heavy rainstorm.,Weather
@@ -124,6 +131,7 @@ Date,Event,Category
 2024-05-30,Trump is found guilty of 34 counts of falsifying business records in his New York hush money trial.,Legal
 2024-06-17,The Northeast and Midwest experience heatwaves with heat indexes reaching 105°F.,Weather
 2024-06-18,Nvidia surpasses Microsoft as the world's most valuable publicly-traded company after its market cap exceeds $3.34 trillion.,Business
+2024-06-27,NTSB announces sanctions against Boeing after the investigation into the Alaska Airlines Flight 1282 door plug accident.,Transportation
 2024-06-27,The first 2024 presidential debate between President Joe Biden and former President Donald Trump is broadcast by CNN in Atlanta.,Political
 2024-06-28,"The Supreme Court issues a 6–3 decision in Loper Bright Enterprises v. Raimondo, reducing the power of federal agencies.",Legal
 2024-07-01,"In Trump v. United States, the Supreme Court rules that former presidents are entitled to absolute immunity from prosecution for official acts taken while in office.",Legal
