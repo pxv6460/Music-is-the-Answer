@@ -1,4 +1,5 @@
-# Project-1-group-
+# Project-1-group-2
+
 Step 1: Download data from the GPR Inex and parse to get data for the last 3 years
 
 Step 2: Write a function to pull in the top 100 weekly billboard titles for the last 3 years
