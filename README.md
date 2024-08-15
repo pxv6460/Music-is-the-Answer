@@ -41,71 +41,52 @@ of newspaper articles by Dario Caldara and Matteo Iacoviello. The sources utiliz
 
 QUESTION #1
 Who are the top ranking artists?
+
 QUESTION #2
 Are there positive or negative correlations amongst the attributes of top songs 
+
 QUESTION #3
 Is there a correlation between the attributes of a song and its ranking on the charts?
 
+QUESTION #4
+What is the ‘mood’ of top ranked songs over time?
+
+QUESTION #5
+Is there a direct relationship between the danceability of a top 3 song and the USA gpr based on events?
+
+QUESTION #6
+How does the standard deviation of the top 3 songs’ mood compares to the gpr in the USA?
+
+##FINDINGS
+
+Wne were able to arrive to some interesting conclusions, some expexted and some unexpected, for instance:
+1) The music taste of the US becomes pretty homogeneous when a popular performer stays on the charts for a long time
+2) There are correlations between mood and gpr - but the peaks are delayed (events happen first, music responds later)
+3) We need to expand our data sourcing over other platforms to identify finer patterns
+4) Unexpectedly, we found out that are there seasonal mood trends, for instance, in the US people don’t dance during the new year holiday season (danceability decreases dec-jan every year)
+
+##HOWEVER...
+
+Skews could play a bigger role. 
+Spotify has 65 million active users in the USA compared to a total population of 259MM over the age of 18- hence Spotify represents ~25% of the adult population. Also, Spotify data skews younger  and more female than male. The mood index may have these inherent biases based on the data skews. Lastly, ‘Popular Artists’  and their planned release schedules could have a bigger influence on mood than global events 
+
+##ULTIMATELY...
+
+GPR and spotify ‘mood’ index are attempts to generalize the mood of the nation - both rely heavily on popular opinions, we need more data to strengthen the observations (Breakdown of results by city/ location? Local news sources/ events better indicator than global news)
+
+##FUTURE DIRECTION
+1) Add further localization
+	Breaking down of results by city
+	Include local, trustworthy news sources
+	Ingest events as they’re happening
+
+2) Increase the granular tagging on all events
+	What kind of news impact musical preferences more than others?
+
+3) Expand the data fetching to other countries not just the US
+	Diversify the input by investigating music charts abroad
 
 
-
-
-* Correlations between the features
-* Positive Correlation:
-	•	Energy and Loudness: The correlation is 0.632, indicating a strong positive correlation. As energy increases, loudness tends to increase as well.
-	•	Valence and Energy: The correlation is 0.390, indicating a moderate positive correlation. As valence (positivity) increases, energy tends to increase.
-	•	Negative Correlation:
-	•	Danceability and Acousticness: The correlation is -0.352, indicating a moderate negative correlation. As danceability increases, acousticness tends to decrease.
-	•	Tempo and Danceability: The correlation is -0.398, indicating a moderate negative correlation. As tempo increases, danceability tends to decrease.
-	•	Weak or No Correlation:
-	•	Loudness and Liveness: The correlation is approximately 0, indicating no linear relationship between these variables.
-	•	Speechiness and Energy: The correlation is -0.005, indicating almost no linear relationship.
-
-
-import requests
-import base64
-
-client_id = "3cdad55fbddf484aa218ad245bad2c7c"
-client_secret = "853507ba61bb42e2aae13ed935b548e4"
-credentials = f"{client_id}:{client_secret}"
-base64_credentials = base64.b64encode(credentials.encode()).decode()
-
-auth_options = {
-    "headers": {
-        "Authorization": f"Basic {base64_credentials}"
-    },
-    "data": {
-        "grant_type": "client_credentials"
-    }
-}
-
-response = requests.post("https://accounts.spotify.com/api/token", headers=auth_options["headers"], data=auth_options["data"])
-
-access_token = response.json()["access_token"]
-
-search_response = requests.get(
-    f"https://api.spotify.com/v1/search",
-    headers={
-        "Authorization": f"Bearer {access_token}"
-    },
-    params={
-        "q": "Espresso",
-        "type": "track",
-        "limit": 1
-    }
-)
-
-song_id = search_response.json()["tracks"]["items"][0]["id"]
-
-search_features = requests.get(
-    f"https://api.spotify.com/v1/audio-features/2oADPwknKEfMtwpMnr7xfg",
-    headers={
-        "Authorization": f"Bearer {access_token}"
-    }
-)
-
-search_features.json()
-
-
-link to the presentation https://docs.google.com/presentation/d/1oIsHPfcf-6mWqWqoU27XUqEV7HjkBl403m6gOW_c9dI/edit#slide=id.g2f2fd5dbcc7_0_57
+LINK TO THE PRESENTATION:
+https://docs.google.com/presentation/d/1oIsHPfcf-6mWqWqoU27XUqEV7HjkBl403m6gOW_c9dI/edit#slide=id.g2f2fd5dbcc7_3_68
 
