@@ -1,15 +1,17 @@
-# Project-1-Group-2
+## Project-1-Group-2
 
-The Impact of Global Events on Music Choice 
+#The Impact of Global Events on Music Choice 
 by
 Niharika, Hazel, Azlan, Peter and Enrique
 
-EXECUTIVE SUMMARY
+##EXECUTIVE SUMMARY
+
 We wanted to investigate the correlations -if any- between key events in the US and abroad, and the music at the top of the weekly Billboard charts from January 2022 to August 2024. Do global events impact the mood of a nation? Can music tell us how?
 By fetching data from multiple sources including Billboard’s top charts, Spotify Web API, Geopolitical Risk Index, and Wikipedia, the team cleaned, transformed, analyzed, and plotted the data. Creating a ‘mood’ variable based on certain audio attributes for the 
 top 10, then the top 3 songs over time, allowed us to question the data, visualize correlations, and hypothesized trends. 
 
-DATA EXTRACTION
+##DATA EXTRACTION - 4 SOURCES
+
 1. BILLBOARD - Top ten songs in the US from 01-01-2022 to 08-08-2024 (136 .csv files)
 2. SPOTIFY FOR DEVELOPERS - Fetched 13 audio features for 205 unique songs performed by 132 artists over a period of 136 weeks
 	A) acousticness [float]  A confidence measure from 0.0 to 1.0 of whether the track is acoustic
@@ -25,6 +27,28 @@ DATA EXTRACTION
 	K) tempo  [float]  The overall estimated tempo of a track in beats per minute (BPM)
 	L) time_signature [ integer]  An estimated time signature (meter)
 	M) valence  [float]  A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track
+3. GEOPOLITICAL RISK (GPR) INDEX - A measure of adverse geopolitical events and associated risks based on a tally
+of newspaper articles by Dario Caldara and Matteo Iacoviello. The sources utilized by the authors are the Chicago Tribune, the Daily Telegraph, the Financial Times, the Globe and Mail, The Guardian, the Los Angeles Times, The New York Times, the USA Today, The Wall Street Journal and The Washington Post
+4. WIKIPEDIA - Fetched and tagged 143 events from wikipedia between 01-27-2022 and 08-06-2024
+
+##DATA TRANSFORMATION
+
+- A consolidated data frame was generated with all the audio features for 1360 entries needed for our analysis
+- Mood Definition. Energy and valence is what we can use for mood. We added weights to the variables 60% energy, 40% valence
+- GPR data was filtered for the US only
+
+##DATA ANALYSIS
+
+QUESTION #1
+Who are the top ranking artists?
+QUESTION #2
+Are there positive or negative correlations amongst the attributes of top songs 
+QUESTION #3
+Is there a correlation between the attributes of a song and its ranking on the charts?
+
+
+
+
 
 * Correlations between the features
 * Positive Correlation:
