@@ -1,4 +1,5 @@
-## Project-1-Group-2
+# Project-1-Group-2
+<br>
 
 #The Impact of Global Events on Music Choice 
 by
