@@ -103,8 +103,11 @@ GPR and spotify ‘mood’ index are attempts to generalize the mood of the nati
 <br>
 >FILES
 >Project_1.ipynb - contains the code
+>
 >Billboard.csv - Billboard top 10 from from 01-01-2022 to 08-08-2024
+>
 > Cleaned_gpr_data.csv - GPR Risk index data for the USA
+>
 >events.csv - Wikipedia events
 >
 
