@@ -7,7 +7,8 @@ Niharika, Hazel, Azlan, Peter and Enrique
 <br>
 >EXECUTIVE SUMMARY
 
-We wanted to investigate the correlations -if any- between key events in the US and abroad, and the music at the top of the weekly Billboard charts from January 2022 to August 2024. ***Do global events impact the mood of a nation?*** Can music tell us how?
+We wanted to investigate the correlations -if any- between key events in the US and abroad, and the music at the top of the weekly Billboard charts from January 2022 to August 2024. ***Do global events impact the mood of a nation?*** Can music tell us how?<br>
+<br>
 By fetching data from multiple sources including Billboard’s top charts, Spotify Web API, Geopolitical Risk Index, and Wikipedia, the team cleaned, transformed, analyzed, and plotted the data. Creating a ‘mood’ variable based on certain audio attributes for the 
 top 10, then the top 3 songs over time, allowed us to question the data, visualize correlations, and hypothesized trends. 
 <br>
