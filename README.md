@@ -59,7 +59,7 @@ How does the standard deviation of the top 3 songs’ mood compares to the gpr i
 
 ##FINDINGS
 
-Wne were able to arrive to some interesting conclusions, some expexted and some unexpected, for instance:
+We were able to arrive to some interesting conclusions, some expexted and some unexpected, for instance:
 1) The music taste of the US becomes pretty homogeneous when a popular performer stays on the charts for a long time
 2) There are correlations between mood and gpr - but the peaks are delayed (events happen first, music responds later)
 3) We need to expand our data sourcing over other platforms to identify finer patterns
@@ -88,5 +88,5 @@ GPR and spotify ‘mood’ index are attempts to generalize the mood of the nati
 
 
 LINK TO THE PRESENTATION:
-https://docs.google.com/presentation/d/1oIsHPfcf-6mWqWqoU27XUqEV7HjkBl403m6gOW_c9dI/edit#slide=id.g2f2fd5dbcc7_3_68
+https://docs.google.com/presentation/d/1oIsHPfcf-6mWqWqoU27XUqEV7HjkBl403m6gOW_c9dI/edit#slide=id.p1
 
