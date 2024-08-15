@@ -1,17 +1,18 @@
-# Project-1-Group-2
-<br>
+## Project-1-Group-2
 
-#The Impact of Global Events on Music Choice 
+# The Impact of Global Events on Music Choice 
 by
 Niharika, Hazel, Azlan, Peter and Enrique
+<br>
+<br>
+>EXECUTIVE SUMMARY
 
-##EXECUTIVE SUMMARY
-
-We wanted to investigate the correlations -if any- between key events in the US and abroad, and the music at the top of the weekly Billboard charts from January 2022 to August 2024. Do global events impact the mood of a nation? Can music tell us how?
+We wanted to investigate the correlations -if any- between key events in the US and abroad, and the music at the top of the weekly Billboard charts from January 2022 to August 2024. ***Do global events impact the mood of a nation?*** Can music tell us how?
 By fetching data from multiple sources including Billboard’s top charts, Spotify Web API, Geopolitical Risk Index, and Wikipedia, the team cleaned, transformed, analyzed, and plotted the data. Creating a ‘mood’ variable based on certain audio attributes for the 
 top 10, then the top 3 songs over time, allowed us to question the data, visualize correlations, and hypothesized trends. 
-
-##DATA EXTRACTION - 4 SOURCES
+<br>
+<br>
+>DATA EXTRACTION - 4 SOURCES
 
 1. BILLBOARD - Top ten songs in the US from 01-01-2022 to 08-08-2024 (136 .csv files)
 2. SPOTIFY FOR DEVELOPERS - Fetched 13 audio features for 205 unique songs performed by 132 artists over a period of 136 weeks
@@ -31,14 +32,18 @@ top 10, then the top 3 songs over time, allowed us to question the data, visuali
 3. GEOPOLITICAL RISK (GPR) INDEX - A measure of adverse geopolitical events and associated risks based on a tally
 of newspaper articles by Dario Caldara and Matteo Iacoviello. The sources utilized by the authors are the Chicago Tribune, the Daily Telegraph, the Financial Times, the Globe and Mail, The Guardian, the Los Angeles Times, The New York Times, the USA Today, The Wall Street Journal and The Washington Post
 4. WIKIPEDIA - Fetched and tagged 143 events from wikipedia between 01-27-2022 and 08-06-2024
+<br>
+<br>
 
-##DATA TRANSFORMATION
+>DATA TRANSFORMATION
 
 - A consolidated data frame was generated with all the audio features for 1360 entries needed for our analysis
 - Mood Definition. Energy and valence is what we can use for mood. We added weights to the variables 60% energy, 40% valence
 - GPR data was filtered for the US only
+<br>
+<br>
 
-##DATA ANALYSIS
+>DATA ANALYSIS
 
 QUESTION #1
 Who are the top ranking artists?
@@ -57,25 +62,30 @@ Is there a direct relationship between the danceability of a top 3 song and the 
 
 QUESTION #6
 How does the standard deviation of the top 3 songs’ mood compares to the gpr in the USA?
-
-##FINDINGS
-
+<br>
+<br>
+>FINDINGS
+>
 We were able to arrive to some interesting conclusions, some expexted and some unexpected, for instance:
 1) The music taste of the US becomes pretty homogeneous when a popular performer stays on the charts for a long time
 2) There are correlations between mood and gpr - but the peaks are delayed (events happen first, music responds later)
 3) We need to expand our data sourcing over other platforms to identify finer patterns
 4) Unexpectedly, we found out that are there seasonal mood trends, for instance, in the US people don’t dance during the new year holiday season (danceability decreases dec-jan every year)
+<br>
+<br>
 
-##HOWEVER...
-
+>HOWEVER...
 Skews could play a bigger role. 
 Spotify has 65 million active users in the USA compared to a total population of 259MM over the age of 18- hence Spotify represents ~25% of the adult population. Also, Spotify data skews younger  and more female than male. The mood index may have these inherent biases based on the data skews. Lastly, ‘Popular Artists’  and their planned release schedules could have a bigger influence on mood than global events 
+<br>
+<br>
 
-##ULTIMATELY...
-
+>ULTIMATELY...
 GPR and spotify ‘mood’ index are attempts to generalize the mood of the nation - both rely heavily on popular opinions, we need more data to strengthen the observations (Breakdown of results by city/ location? Local news sources/ events better indicator than global news)
+<br>
+<br>
 
-##FUTURE DIRECTION
+>FUTURE DIRECTION
 1) Add further localization
 	Breaking down of results by city
 	Include local, trustworthy news sources
@@ -86,8 +96,9 @@ GPR and spotify ‘mood’ index are attempts to generalize the mood of the nati
 
 3) Expand the data fetching to other countries not just the US
 	Diversify the input by investigating music charts abroad
+<br>
+<br>
 
-
-LINK TO THE PRESENTATION:
+>LINK TO THE PRESENTATION:
 https://docs.google.com/presentation/d/1oIsHPfcf-6mWqWqoU27XUqEV7HjkBl403m6gOW_c9dI/edit#slide=id.p1
 
