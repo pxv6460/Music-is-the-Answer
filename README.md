@@ -12,6 +12,8 @@ By fetching data from multiple sources including Billboard’s top charts, Spoti
 top 10, then the top 3 songs over time, allowed us to question the data, visualize correlations, and hypothesized trends. 
 <br>
 <br>
+
+![sources](/sources.png) 
 >DATA EXTRACTION - 4 SOURCES
 
 1. BILLBOARD - Top ten songs in the US from 01-01-2022 to 08-08-2024 (136 .csv files)
